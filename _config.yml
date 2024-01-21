@@ -43,6 +43,7 @@ defaults:
     values:
       layout: "blog"
 
+
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
