@@ -31,6 +31,8 @@ published: true
 > "Mr. TV" makes his World Tour debut in this video for good reason: he pushes 'custom movesets' to their breaking point. Frogsplashes are exclusively a 'pinning move' in this game, but thanks to some error-checking from Melonbread on my behalf, we can now use it as a non-pinning move (although there is no 'getting up' animation, so it looks a little bit weird). He also has access to moves in unusual slots, such as his monkey flip from the corner position, or the falling powerslam as an Irish Whip grapple.
 >
 > As always, I have freem to thank for VPW Studio and Melonbread to thank for always being game to debug some of the wilder ideas I sometimes err in executing.
+>
+> -- <cite>[@RagDas01](https://www.youtube.com/@RagDas01)</cite>
 
 ## Comments & Replies
 
