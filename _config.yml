@@ -44,8 +44,9 @@ defaults:
       layout: "blog"
 
 plugins:
-  - jekyll
+  - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - CHANGELOG.md
