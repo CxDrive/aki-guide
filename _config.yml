@@ -3,9 +3,9 @@ title: aki.guide
 logo: /assets/img/logo.png
 permalink: pretty
 
-domain: cxdrive.github.io
-url: https://cxdrive.github.io/aki-guide
-baseurl: /aki-guide
+domain: aki.guide
+url: http://aki-guide
+baseurl: ""
 
 collections:
   pages:
