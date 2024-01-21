@@ -7,7 +7,7 @@
 
                         {% for item in site.data.nav.links %}
 
-                        <a class="list-group-item link-warning mx-auto d-block"  style="border: 0" href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a>
+                        <a class="list-group-item link-warning mx-auto d-block"  style="border: 0" href="{{ site.baseurl }}/{{ item.title }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a>
 
                         {% endfor %}
 
