@@ -29,6 +29,7 @@ li {
 
 a {
   color: RGBA(255,205,57,var(--bs-link-opacity,1)) !important;
+  text-decoration: none;
 }
 
 
