@@ -13,7 +13,7 @@ title: Tags
 
 <li class="list-group-item list-group-item-action" style="padding: .5rem" >
 
-<a href="/tag/{{ tag | first | slugify }}/">#{{ tag[0] | replace:'-', ' ' }}</a>
+<a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}/">#{{ tag[0] | replace:'-', ' ' }}</a>
 
 &nbsp;&nbsp;
 
