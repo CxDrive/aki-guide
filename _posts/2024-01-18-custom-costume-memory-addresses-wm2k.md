@@ -20,7 +20,7 @@ The tool below accepts a string of bytes separated by a space - depending on whe
 <div class="form-floating w-75 mx-auto d-block">
 
 <textarea class="form-control" style="height: 90px; padding: 1.5rem" id="input"></textarea>
-<label for="input">Paste your 55 Byte Input String here and press the Output button:</label>
+<label for="input">55 Byte Input String:</label>
 </div>
 
 
@@ -28,7 +28,7 @@ The tool below accepts a string of bytes separated by a space - depending on whe
 
 <div class="form-floating w-75 mx-auto d-block">
 <textarea class="form-control" style="height: 90px; padding: 1.5rem"  id="output"></textarea>
-<label for="output">Copy your 36 Byte Output String from here:</label>
+<label for="output">36 Byte Output String:</label>
 </div>
 
 ----
