@@ -44,6 +44,10 @@ li {
   padding-top: 2rem;
 }
 
+.meta-container {
+  border-top: var(--bs-border-width) solid rgba(80, 84, 88, .5);
+}
+
 a {
   color: RGBA(255,205,57,var(--bs-link-opacity,1)) !important;
   text-decoration: none;
