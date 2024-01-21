@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+                <section class="post">
+
+                    <h2>{{ page.title }}</h2>
+
+                    {{ content }}
+
+                    <div class="row gx-5">&nbsp;</div>
+
+                    <hr>
+
+                    <div class="meta">
+
+                        <time datetime="{{ page.date | date_to_xmlschema }}">
+
+                            {{ page.date | date: "%-d %B %Y" }}
+
+                        </time>
+
+                        &nbsp;&nbsp;&nbsp;
+
+                        {% for tag in page.tags %}
+
+                        <a href="/tag/{{tag}}">#{{tag}}</a>
+
+                        {% unless forloop.last %}
+
+                        &nbsp;&nbsp;&nbsp;
+
+                        {% endunless %}
+
+                        {% endfor %}
+
+                    </div>
+
+                </section>
+
+            <div class="row gx-5">&nbsp;</div>

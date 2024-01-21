@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en" data-bs-theme="dark" >
+
+  {% include head.html %}
+
+  <body>
+
+    <main>
+
+        <div class="container-sm" style="max-width: 960px;">
+
+            <a href="{{ site.url }}"><img alt="{{ site.title }}" class="row gx-5 mx-auto d-block" src="{{ site.logo | relative_url }}" /></a>
+
+            {% include nav.html %}
+
+            <div class="row gx-5">&nbsp;</div>
+
+            <div class="row gx-5">
+
+                {{ content }}
+
+            </div>
+
+        </div>
+
+    </main>
+
+  </body>
+
+</html>

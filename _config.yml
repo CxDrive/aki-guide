@@ -1,0 +1,57 @@
+site: aki.guide
+title: aki.guide
+logo: /assets/img/logo.png
+permalink: pretty
+
+domain: cxdrive.github.io
+url: https://cxdrive.github.io
+baseurl: /aki-guide/
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /posts/:slug
+  blog:
+    output: true
+    permalink: /blog/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "blog"
+    values:
+      layout: "blog"
+
+plugins:
+  - jekyll
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/

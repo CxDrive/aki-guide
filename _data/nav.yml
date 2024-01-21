@@ -1,0 +1,15 @@
+links:
+- title: Home
+  url: /
+- title: Posts
+  url: /posts
+- title: Tags
+  url: /tags
+- title: Games
+  url: /games
+- title: Blog
+  url: /blog
+- title: Links
+  url: /links
+- title: About
+  url: /about
