@@ -3,30 +3,26 @@ layout: page
 title: Links
 ---
 
-### Nintendo 64 (Community Releases)
+### Resources
 
-- [WCW Saturday Night](../tags/#wcwsatnight) (August 2023) *by G.M. Spectre*
-- [La Fin Du Tour - Virtual Pro Wrestling Alpha](../tags/#lfdt-vpwa) (February 2023) *by ragdas*
-- [Project Outsider](../tags/#project-outsider) (December 2022) *by G.M. Spectre*
-- [SUMMIT: Virtual Pro Wrestling Gamma](../tags/#summit) (October 2022) *by ragdas*
-- [WCW/nWo 레벤지 (REVENJI)](../tags/#revenji) (February 2020) *by ragdas*
-- [Virtual Pro Wrestling 2 - Freem Edition](../tags/#vpw2-fe/) (January 2020) *by freem*
-
-### Nintendo 64 *(AKI Releases)*
-
-- [WWF No Mercy](../tags/#nomercy) (November 2000)
-- [Virtual Pro Wrestling 2](../tags/#vpw2) (January 2000)
-- [Wrestlemania 2000](../tags/#wm2k) (October 1999)
-- [WCW/nWo Revenge](../tags/#revenge) (October 1997)
-- [Virtual Pro Wrestling 64](../tags/#vpw64) (December 1997)
-- [WCW vs nWo: World Tour](../tags/#worldtour) (December 1997)
-
-### Sony PlayStation *(AKI Releases)*
-
-- [WCW vs The World](../tags/#vsworld) (March 1997)
-- [Virtual Pro Wrestling](../tags/#vpw) (September 1996)
+- [VPW Studio Official Site](https://vpw.ajworld.net/vpwstudio/)
+  - Official page of the absolutely wonderful tool freem has put together for modifying the AKI series.
+- [AJ's Virtual Pro Wrestling Junk](https://vpw.ajworld.net/)
+  - freem's personal homepage related to their work with the AKI series.
 
 
+### Nintendo 64 Community Releases
 
-
+- [WCW Saturday Night](https://www.youtube.com/watch?v=K8s6xypj588)
+  - A release based on Wrestlemania 2000 created by G.M. Spectre.
+- [La Fin Du Tour - Virtual Pro Wrestling Alpha](https://vpw.ajworld.net/lfdt/)
+  - A release based on WCW vs. nWo - World Tour created by RagDas.
+- [Project Outsider](https://www.youtube.com/watch?v=tquuirULN8U)
+  - A release based on WWF No Mercy created by G.M. Spectre.
+- [SUMMIT: Virtual Pro Wrestling Gamma](https://vpw.ajworld.net/summit/)
+  - A release based on Wrestlemania 2000 created by RagDas.
+- [WCW/nWo 레벤지 (REVENJI)](https://vpw.ajworld.net/revenji/)
+  - A release based on WCW/nWo Revenge created by RagDas.
+- [Virtual Pro Wrestling 2 - Freem Edition](https://vpw.ajworld.net/vpw2freem/)
+  - A release based on Virtual Pro Wrestling 2 created by freem.
 
