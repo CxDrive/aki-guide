@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Updates for the Week of 1/20/24
-category: dev
+category: Development
 date: 2024-01-01
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: UWA BABAY
-category: uwa
+category: UWA
 date: 2024-01-01
 ---

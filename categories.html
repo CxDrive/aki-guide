@@ -1,0 +1,34 @@
+---
+layout: page
+title: Categories
+---
+
+                <div class="list-group">
+
+                {% assign categories = site.blog | group_by: 'category' | sort: "name" %}
+
+                {% for category in categories %}
+
+                    <a class="list-group-item list-group-item-action" style="padding: .5rem" href="#{{ category.name }}">{{ category.name }}</a>
+
+                {% endfor %}
+
+                </div>
+
+                {% assign categories = site.blog | group_by: 'category' | sort: "name" %}
+
+                {% for category in categories %}
+
+                <h3 id="{{ category.name }}" style="padding-top:6rem;">{{ category.name }}</h3>
+
+                <div class="list-group">
+
+                {% for post in category.items %}
+
+                    <a class="list-group-item list-group-item-action" style="padding: .5rem" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+
+                {% endfor %}
+
+                {% endfor %}
+
+                </div>
