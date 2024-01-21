@@ -1,0 +1,30 @@
+---
+layout: page
+title: Tags
+---
+
+                <div class="list-group">
+
+                    {% for tag in site.tags %}
+
+                    <a class="list-group-item list-group-item-action" style="padding: .5rem" href="#{{ tag[0] }}">#{{ tag[0] }}</a>
+
+                    {% endfor %}
+
+                </div>
+
+                {% for tag in site.tags %}
+
+                <h3 id="{{ tag[0] }}" style="padding-top:6rem;">#{{ tag[0] }}</h3>
+
+                <div class="list-group">
+
+                    {% for post in tag[1] %}
+
+                    <a class="list-group-item list-group-item-action" style="padding: .5rem" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+
+                    {% endfor %}
+
+                </div>
+
+                {% endfor %}

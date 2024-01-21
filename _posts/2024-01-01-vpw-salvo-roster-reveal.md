@@ -6,7 +6,7 @@ summary: What is the difference between various font formats?
 source: YouTube
 source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y
 date: 2024-01-01
-tags: [revenge]
+tags: ["revenge"]
 ---
 
 

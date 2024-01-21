@@ -6,7 +6,7 @@ summary: What is the difference between various font formats?
 source: YouTube
 source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y
 date: 2024-01-18
-tags: [wm2k,addresses]
+tags: ["wm2k","addresses"]
 ---
 
 ### <a name="String Conversion Tool"></a> String Conversion Tool

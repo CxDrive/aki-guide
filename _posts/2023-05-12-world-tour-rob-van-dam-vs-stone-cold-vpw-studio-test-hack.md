@@ -6,7 +6,7 @@ summary: What is the difference between various font formats?
 source: ragdas
 source-url: https://www.youtube.com/watch?v=ctqVdcfedl0
 date: 2023-05-12
-tags: [worldtour]
+tags: ["worldtour"]
 ---
 
 <div class="ratio ratio-16x9 w-75 mx-auto d-block">
