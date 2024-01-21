@@ -10,7 +10,7 @@ The links below will take you directly to lists of posts tagged for each game.  
 ### Nintendo 64 *(Community Releases)*
 
 - [WCW Saturday Night](../tags/#wcwsatnight) (August 2023) *by G.M. Spectre*
-- [La Fin Du Tour - Virtual Pro Wrestling Alpha](../tags/#lfdt-vpwa) (February 2023) *by ragdas*
+- [La Fin Du Tour - Virtual Pro Wrestling Alpha](../tags/#lafindutour) (February 2023) *by ragdas*
 - [Project Outsider](../tags/#project-outsider) (December 2022) *by G.M. Spectre*
 - [SUMMIT: Virtual Pro Wrestling Gamma](../tags/#summit) (October 2022) *by ragdas*
 - [WCW/nWo 레벤지 (REVENJI)](../tags/#revenji) (February 2020) *by ragdas*

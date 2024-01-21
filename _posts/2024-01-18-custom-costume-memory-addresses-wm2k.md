@@ -1,13 +1,14 @@
 ---
 layout: post
-author:
+author: C-Drive
 date: 2024-01-18
 title: Custom Costume Memory Addresses in Wrestlemania 2000
-description: What is the difference between various font formats?
-summary: What is the difference between various font formats?
-source: YouTube
-source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y
+description:
+summary:
 tags: ["wm2k","addresses"]
+source: C-Drive
+source-url:
+assetid: 58eafef8
 published: true
 ---
 
