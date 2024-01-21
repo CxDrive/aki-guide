@@ -2,40 +2,50 @@
 layout: default
 ---
 
-                <section class="post">
+                <div class="row">
 
                     <h2>{{ page.title }}</h2>
 
-                    {{ content }}
+                </div>
 
-                    <div class="row gx-5">&nbsp;</div>
+                <section class="post">
 
-                    <hr>
+                    <div class="row">
 
-                    <div class="meta">
+                        {{ content }}
 
-                        <time datetime="{{ page.date | date_to_xmlschema }}">
+                    </div>
 
-                            {{ page.date | date: "%-d %B %Y" }}
+                    <div class="row">&nbsp;</div>
 
-                        </time>
+                    <div class="row" style="border-top: 1px solid">
 
-                        &nbsp;&nbsp;&nbsp;
+                        <div class="meta">
 
-                        {% for tag in page.tags %}
+                            <time datetime="{{ page.date | date_to_xmlschema }}">
 
-                        <a href="{{ site.url }}/tags/#{{tag}}">#{{tag}}</a>
+                                {{ page.date | date: "%-d %B %Y" }}
 
-                        {% unless forloop.last %}
+                            </time>
 
-                        &nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;
 
-                        {% endunless %}
+                            {% for tag in page.tags %}
 
-                        {% endfor %}
+                            <a href="{{ site.url }}/tags/#{{tag}}">#{{tag}}</a>
+
+                            {% unless forloop.last %}
+
+                            &nbsp;&nbsp;&nbsp;
+
+                            {% endunless %}
+
+                            {% endfor %}
+
+                        </div>
 
                     </div>
 
                 </section>
 
-            <div class="row gx-5">&nbsp;</div>
+                <div class="row">&nbsp;</div>

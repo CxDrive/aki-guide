@@ -1,12 +1,14 @@
 ---
 layout: post
+author:
+date: 2024-01-18
 title: Custom Costume Memory Addresses in Wrestlemania 2000
 description: What is the difference between various font formats?
 summary: What is the difference between various font formats?
 source: YouTube
 source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y
-date: 2024-01-18
 tags: ["wm2k","addresses"]
+published: true
 ---
 
 ### <a name="String Conversion Tool"></a> String Conversion Tool
@@ -17,7 +19,7 @@ The tool below accepts a string of bytes separated by a space - depending on whe
 
 ----
 
-<div class="form-floating w-75 mx-auto d-block">
+<div class="form-floating w-75 mx-auto d-block toolarea">
 
 <textarea class="form-control" style="height: 90px; padding: 1.5rem" id="input"></textarea>
 <label for="input">55 Byte Input String:</label>
@@ -26,10 +28,13 @@ The tool below accepts a string of bytes separated by a space - depending on whe
 
 <button class="btn btn-primary btn-lg mx-auto d-block" type="button" style="margin: 1rem" onclick="genValue()">Output</button>
 
-<div class="form-floating w-75 mx-auto d-block">
+<div class="form-floating w-75 mx-auto d-block toolarea">
 <textarea class="form-control" style="height: 90px; padding: 1.5rem"  id="output"></textarea>
 <label for="output">36 Byte Output String:</label>
 </div>
+
+
+
 
 ----
 

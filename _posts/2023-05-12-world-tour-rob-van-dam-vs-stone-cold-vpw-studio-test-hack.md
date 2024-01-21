@@ -1,12 +1,14 @@
 ---
 layout: post
+author:
+date: 2023-05-12
 title: WCW/nWo World Tour - Rob Van Dam vs. Stone Cold (VPW Studio Test Hack)
 description: What is the difference between various font formats?
 summary: What is the difference between various font formats?
+tags: ["worldtour"]
 source: ragdas
 source-url: https://www.youtube.com/watch?v=ctqVdcfedl0
-date: 2023-05-12
-tags: ["worldtour"]
+published: true
 ---
 
 <div class="ratio ratio-16x9 w-75 mx-auto d-block">

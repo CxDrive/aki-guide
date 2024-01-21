@@ -1,12 +1,14 @@
 ---
 layout: post
+author:
+date: 2024-01-01
 title: Virtual Pro Wrestling Salvo - Roster Reveal + Vader vs Stone Cold
 description: What is the difference between various font formats?
 summary: What is the difference between various font formats?
 source: YouTube
 source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y
-date: 2024-01-01
 tags: ["revenge"]
+published: true
 ---
 
 

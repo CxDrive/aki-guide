@@ -23,6 +23,3 @@ Sidey is a simple and minimalistic jekyll blogging theme.
 - Ultra fast (Only ~5kb of CSS)
 - Sidebar navigation
 
-### Screenshot
-
-![My helpful screenshot]({{ site.url }}/assets/img/404.png)

@@ -2,20 +2,30 @@
 layout: default
 ---
 
-                <section class="post">
+                <div class="row">
 
                     <h2>{{ page.title }}</h2>
 
+                </div>
+
+                <div class="row">
+
                     <p class="fst-italic text-end">
 
-                        An aki.guide <a href="{{ site.url }}/blog/">blog</a> entry by C-Drive posted on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time> in <a href="{{ site.url }}/categories/#{{page.categories}}">{{page.categories}}</a>.
+                        An aki.guide <a href="{{ site.url }}/blog/">blog</a> entry by {{page.author}} posted on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time> in <a href="{{ site.url }}/categories/#{{page.categories}}">{{page.categories}}</a>.
 
                     </p>
 
-                    {{ content }}
+                <section class="blog">
 
-                    <div class="row gx-5">&nbsp;</div>
+                    <div class="row">
+
+                        {{ content }}
+
+                    </div>
+
+                    <div class="row">&nbsp;</div>
 
                 </section>
 
-            <div class="row gx-5">&nbsp;</div>
+                <div class="row">&nbsp;</div>

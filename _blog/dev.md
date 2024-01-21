@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Blog entries filed under 'dev'
+layout: blog
+author: C-Drive
 date: 1900-01-01
+title: Blog entries filed under 'dev'
 category: Entry
 ---
 

@@ -1,30 +1,46 @@
 ---
-layout: page
+layout: default
 title: Post Tags
 ---
 
-                <div class="list-group">
+                <div class="row">
+
+                    <h2>{{ page.title }}</h2>
+
+                </div>
+
+                <div class="row">
+
+                    <div class="list-group">
+
+                        {% for tag in site.tags %}
+
+                        <a class="list-group-item list-group-item-action" href="#{{ tag[0] }}">#{{ tag[0] }}</a>
+
+                        {% endfor %}
+
+                    </div>
+
+                </div>
+
+                <div class="row">
 
                     {% for tag in site.tags %}
 
-                    <a class="list-group-item list-group-item-action" style="padding: .5rem" href="#{{ tag[0] }}">#{{ tag[0] }}</a>
-
-                    {% endfor %}
-
-                </div>
-
-                {% for tag in site.tags %}
-
-                <h3 id="{{ tag[0] }}" style="padding-top:6rem;">#{{ tag[0] }}</h3>
-
-                <div class="list-group">
+                    <h3 id="{{ tag[0] }}">#{{ tag[0] }}</h3>
 
                     {% for post in tag[1] %}
 
-                    <a class="list-group-item list-group-item-action" style="padding: .5rem" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    <div class="list-group">
+
+                        <a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+
+                    </div>
+
+                    {% endfor %}
 
                     {% endfor %}
 
                 </div>
 
-                {% endfor %}
+                <div class="row">&nbsp;</div>

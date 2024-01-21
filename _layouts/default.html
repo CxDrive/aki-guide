@@ -10,21 +10,21 @@
 
         <div class="container-sm" style="max-width: 960px;">
 
-            <div class="text-center">
+            <div class="row text-center">
 
-            <a href="{{ site.url }}"><img alt="{{ site.title }}" class="img-fluid" src="{{ site.logo | relative_url }}" /></a>
+                <a href="{{ site.url }}">
+
+                    <img alt="{{ site.title }}" class="img-fluid" src="{{ site.logo | relative_url }}" />
+
+                </a>
 
             </div>
 
             {% include nav.html %}
 
-            <div class="row gx-5">&nbsp;</div>
+            {{ content }}
 
-            <div class="row gx-5">
-
-                {{ content }}
-
-            </div>
+            <div class="row">&nbsp;</div>
 
         </div>
 

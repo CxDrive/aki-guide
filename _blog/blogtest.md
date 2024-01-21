@@ -1,8 +1,9 @@
 ---
 layout: blog
+author: C-Drive
+date: 2024-01-01
 title: Updates for the Week of 1/20/24
 category: Development
-date: 2024-01-01
 ---
 
 Dogs been here!

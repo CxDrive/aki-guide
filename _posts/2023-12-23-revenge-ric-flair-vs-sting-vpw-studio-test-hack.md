@@ -1,12 +1,14 @@
 ---
 layout: post
+author:
+date: 2023-12-23
 title: WCW/nWo Revenge - Ric Flair vs. nWo Sting (VPW Studio Test Hack)
 description: What is the difference between various font formats?
 summary: What is the difference between various font formats?
+tags: ["revenge"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=NnyMw_e_eYs
-date: 2023-12-23
-tags: ["revenge"]
+published: true
 ---
 
 

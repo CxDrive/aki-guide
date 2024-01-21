@@ -1,34 +1,50 @@
 ---
-layout: page
+layout: default
 title: Blog Categories
 ---
 
-                <div class="list-group">
+                <div class="row">
 
-                {% assign categories = site.blog | group_by: 'category' | sort: "name" %}
-
-                {% for category in categories %}
-
-                    <a class="list-group-item list-group-item-action" style="padding: .5rem" href="#{{ category.name }}">{{ category.name }}</a>
-
-                {% endfor %}
+                    <h2>{{ page.title }}</h2>
 
                 </div>
 
-                {% assign categories = site.blog | group_by: 'category' | sort: "name" %}
+                <div class="row">
 
-                {% for category in categories %}
+                    <div class="list-group">
 
-                <h3 id="{{ category.name }}" style="padding-top:6rem;">{{ category.name }}</h3>
+                        {% assign categories = site.blog | group_by: 'category' | sort: "name" %}
 
-                <div class="list-group">
+                        {% for category in categories %}
 
-                {% for post in category.items %}
+                        <a class="list-group-item list-group-item-action" href="#{{ category.name }}">{{ category.name }}</a>
 
-                    <a class="list-group-item list-group-item-action" style="padding: .5rem" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                        {% endfor %}
 
-                {% endfor %}
-
-                {% endfor %}
+                    </div>
 
                 </div>
+
+                <div class="row">
+
+                    {% assign categories = site.blog | group_by: 'category' | sort: "name" %}
+
+                    {% for category in categories %}
+
+                    <h3 id="{{ category.name }}"">{{ category.name }}</h3>
+
+                    {% for post in category.items %}
+
+                    <div class="list-group">
+
+                        <a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+
+                    </div>
+
+                    {% endfor %}
+
+                    {% endfor %}
+
+                </div>
+
+                <div class="row">&nbsp;</div>

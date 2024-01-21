@@ -14,7 +14,7 @@ The links below will take you directly to lists of posts tagged for each game.  
 - [Project Outsider](../tags/#project-outsider) (December 2022) *by G.M. Spectre*
 - [SUMMIT: Virtual Pro Wrestling Gamma](../tags/#summit) (October 2022) *by ragdas*
 - [WCW/nWo 레벤지 (REVENJI)](../tags/#revenji) (February 2020) *by ragdas*
-- [Virtual Pro Wrestling 2 - Freem Edition](../tags/#vpw2-fe/ (January 2020) *by freem*
+- [Virtual Pro Wrestling 2 - Freem Edition](../tags/#vpw2-fe/) (January 2020) *by freem*
 
 ### Nintendo 64 *(AKI Releases)*
 
