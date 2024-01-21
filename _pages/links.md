@@ -27,7 +27,7 @@ title: Links
 
 ### Patreons
 
-- [Retro Randy Price | creating AKI N64 Mods for Console](https://www.patreon.com/AKI_ROMS)
+- [Retro Randy Price - creating AKI N64 Mods for Console](https://www.patreon.com/AKI_ROMS)
 
 ### Resources
 
