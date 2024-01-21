@@ -10,7 +10,11 @@
 
         <div class="container-sm" style="max-width: 960px;">
 
-            <a href="{{ site.url }}"><img alt="{{ site.title }}" class="row gx-5 mx-auto d-block img-fluid" src="{{ site.logo | relative_url }}" /></a>
+            <div class="text-center">
+
+            <a href="{{ site.url }}"><img alt="{{ site.title }}" class="img-fluid" src="{{ site.logo | relative_url }}" /></a>
+
+            </div>
 
             {% include nav.html %}
 
