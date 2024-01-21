@@ -1,13 +1,13 @@
 
-            <header aria-hidden="true" class="no-print row gx-5">
+            <header class="no-print row gx-5">
 
-                <nav role="navigation" aria-hidden="true">
+                <nav role="navigation">
 
-                    <div class="list-group list-group-horizontal" style="border: 0">
+                    <div class="text-center">
 
                         {% for item in site.data.nav.links %}
 
-                        <a class="list-group-item link-warning mx-auto d-block"  style="border: 0" href="{{ site.baseurl }}{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a>
+                        &nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>&nbsp;&nbsp;&nbsp;|
 
                         {% endfor %}
 
