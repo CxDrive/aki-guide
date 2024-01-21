@@ -10,13 +10,13 @@ baseurl: /aki-guide
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:name/
   posts:
     output: true
-    permalink: /posts/:slug
+    permalink: /posts/:slug/
   blog:
     output: true
-    permalink: /blog/:slug
+    permalink: /blog/:slug/
 
 defaults:
   -
