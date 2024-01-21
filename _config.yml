@@ -5,7 +5,7 @@ permalink: pretty
 
 domain: cxdrive.github.io
 url: https://cxdrive.github.io/aki-guide
-baseurl: /aki-guide/
+baseurl: /aki-guide
 
 collections:
   pages:
