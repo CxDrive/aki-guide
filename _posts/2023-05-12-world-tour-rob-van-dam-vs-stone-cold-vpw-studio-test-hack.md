@@ -18,7 +18,6 @@ published: true
 
 ## Video Description
 
-[@RagDas01](https://www.youtube.com/@RagDas01)
 
 > No plans to do anything here. Just another step forward for this game's hack potential, as we explore a couple of different topics.
 >
@@ -38,11 +37,14 @@ published: true
 
 I had and enjoyed this game only thing i wished different was this very current instrumental song during the matches , it got old and annoying very fast , other then that,  fun game good memories
 
-[@LGBTPlayingGames](https://www.youtube.com/@LGBTPlayingGames)
+
 > The BGM changes depending on which ring you choose to wrestle in, and in the Champion Road it changes depending on which company you choose to fight in. This BGM is basically the "Antonio Inoki theme song" (almost every wrestling game made by a Japanese company has one) of the game.
 There's even a Tag Team variation for each of the match BGMs.
+>
+> -- <cite>[@LGBTPlayingGames](https://www.youtube.com/@LGBTPlayingGames)</cite>
 
 Is this just a test or will we see a full romhack?
 
-[@RagDas01](https://www.youtube.com/@RagDas01)
 > This is a test. There were quite a few characters complete before I decided I wasn't interested in hacking World Tour anymore, but I still thought it was important to share that World Tour, graphically, can be upgraded to the level of Revenge. The work I did on this didn't go to waste though -- quite a few textures and concepts eventually became a part of Virtual Pro Wrestling Salvo.
+>
+> -- <cite>[@RagDas01](https://www.youtube.com/@RagDas01)</cite>

@@ -19,10 +19,8 @@ published: true
 
 ## Video Description
 
-[@RagDas01](https://www.youtube.com/@RagDas01)
-
 > Lots of movement in WCW/nWo Revenge recently. Once again, myself, freem, and Melonbread have put our heads together and made some massive strides in hacking this game.
-
+>
 > What you're seeing here is special for a few reasons:
 >
 > 1. Wrath was not the only lost character in Revenge; nWo Sting was in there the whole time as well, missing only his profile data and his costume textures (both of which I added to the game). His head data, moveset data, height data, and body type were all already present, and required change in ID4 to reenable.
@@ -39,3 +37,5 @@ published: true
 > 4. His spinning punch from World Tour is absent; nWo Sting uses the same move in World Tour, and uses the spinning punch in this game. Logic dictates that this spinning punch replaced the one from World Tour, so I used that as the replacement.
 >
 > Finally, I made sure to initialize the game so that you could see there was no trickery going on here. All of this is a ROM hack and is playable on a real console. That being said, as always: there is currently no plan to take this any further than I have.
+>
+> -- <cite>[@RagDas01](https://www.youtube.com/@RagDas01)</cite>
