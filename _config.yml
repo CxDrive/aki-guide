@@ -45,7 +45,7 @@ defaults:
 
 plugins:
   - jekyll
-
+  - jekyll-seo-tag
 
 exclude:
   - CHANGELOG.md
