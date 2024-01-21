@@ -46,7 +46,6 @@ defaults:
 plugins:
   - jekyll
 
-include: ['_pages','_blog']
 
 exclude:
   - CHANGELOG.md
