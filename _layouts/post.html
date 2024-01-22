@@ -12,7 +12,15 @@ layout: default
 
                     <p class="fst-italic">
 
-                        This information is attributed to {{ page.author }} and was originally found <a href="{{ page.source-url }}">here</a>.
+                    {% if page.source-url == "" %}
+
+                    This information is attributed to {{ page.author }}.
+
+                    {% else %}
+
+                    This information is attributed to {{ page.author }} and was originally found <a href="{{ page.source-url }}">here</a>.
+
+                    {% endif %}
 
                     </p>
 
