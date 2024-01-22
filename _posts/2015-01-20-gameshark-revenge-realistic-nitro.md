@@ -2,7 +2,7 @@
 layout: post
 author: S.K. Stylez
 date: 2015-01-20
-title: "Gameshark Code - Realistic Nitro for WCW/nWo Revenge"
+title: "Gameshark Code - WCW/nWo Revenge - Realistic Nitro"
 description:
 summary:
 tags: ["revenge","gameshark"]

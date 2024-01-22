@@ -2,7 +2,7 @@
 layout: post
 author: S.K. Stylez
 date: 2016-09-19
-title: "Gameshark Code - Rope Colours for WCW/nWo Revenge"
+title: "Gameshark Code - WCW/nWo Revenge - Rope Colours"
 description:
 summary:
 tags: ["revenge","gameshark"]
