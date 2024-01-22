@@ -1,12 +1,12 @@
 ---
 layout: post
-author:
+author: RagDas
 date: 2024-01-01
 title: Virtual Pro Wrestling Salvo - Roster Reveal + Vader vs Stone Cold
 description:
 summary:
 tags: ["salvo"]
-source: ragdas
+source: YouTube
 source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y
 assetid: ae2303a8
 published: true

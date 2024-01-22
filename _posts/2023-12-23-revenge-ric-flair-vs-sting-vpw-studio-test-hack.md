@@ -1,12 +1,12 @@
 ---
 layout: post
-author:
+author: RagDas
 date: 2023-12-23
 title: WCW/nWo Revenge - Ric Flair vs. nWo Sting (VPW Studio Test Hack)
 description:
 summary:
 tags: ["revenge"]
-source: ragdas
+source: YouTube
 source-url: https://www.youtube.com/watch?v=NnyMw_e_eYs
 assetid: 7728257e
 published: true

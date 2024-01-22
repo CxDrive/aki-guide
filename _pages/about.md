@@ -14,5 +14,3 @@ aki.guide is built and managed by C-Drive.
 - Custom-built theme, development of which sourced a lot of ideas from looking at the code of [sidey](https://github.com/ronv/sidey), [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll), and a couple of other themes on GitHub, and using my ancient HTML/CSS/JS techniques to put something worthwhile together in around four days.
 - All Posts and Blog entries are written in flat-file [Markdown](https://www.markdownguide.org/) text documents.
 - Hosting on GitHub Pages is no cost, the only money I'm putting in to this is for the domain name.
-
-

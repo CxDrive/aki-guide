@@ -13,7 +13,7 @@
     {
       "title"    : "Virtual Pro Wrestling Salvo - Roster Reveal + Vader vs Stone Cold",
       "description" : "",
-      "source" : "ragdas",
+      "source" : "YouTube",
       "category" : "",
       "tags"     : "salvo",
       "url"      : "/posts/vpw-salvo-roster-reveal/",
@@ -23,7 +23,7 @@
     {
       "title"    : "WCW/nWo Revenge - Ric Flair vs. nWo Sting (VPW Studio Test Hack)",
       "description" : "",
-      "source" : "ragdas",
+      "source" : "YouTube",
       "category" : "",
       "tags"     : "revenge",
       "url"      : "/posts/revenge-ric-flair-vs-sting-vpw-studio-test-hack/",
@@ -33,11 +33,41 @@
     {
       "title"    : "WCW/nWo World Tour - Rob Van Dam vs. Stone Cold (VPW Studio Test Hack)",
       "description" : "",
-      "source" : "ragdas",
+      "source" : "YouTube",
       "category" : "",
       "tags"     : "worldtour",
       "url"      : "/posts/world-tour-rob-van-dam-vs-stone-cold-vpw-studio-test-hack/",
       "date"     : "2023-05-12 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Gameshark Code - Rope Colours for WCW/nWo Revenge",
+      "description" : "",
+      "source" : "Virtual Pro Wrestling 2 Dojo",
+      "category" : "",
+      "tags"     : "revenge, gameshark",
+      "url"      : "/posts/gameshark-rope-colours-revenge/",
+      "date"     : "2016-09-19 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Gameshark Code - Updated Kidman Attire for WCW/nWo Revenge",
+      "description" : "",
+      "source" : "Virtual Pro Wrestling 2 Dojo",
+      "category" : "",
+      "tags"     : "revenge, gameshark",
+      "url"      : "/posts/gameshark-updated-kidman-attire-revenge/",
+      "date"     : "2015-11-28 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Gameshark Code - Realistic Nitro for WCW/nWo Revenge",
+      "description" : "",
+      "source" : "Virtual Pro Wrestling 2 Dojo",
+      "category" : "",
+      "tags"     : "revenge, gameshark",
+      "url"      : "/posts/gameshark-realistic-nitro-revenge/",
+      "date"     : "2015-01-20 00:00:00 -0500"
     } 
   
 ]

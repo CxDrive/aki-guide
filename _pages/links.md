@@ -41,4 +41,4 @@ title: Links
 
 - [Retro Randy Price](https://www.youtube.com/channel/UC1SXvJLUoyYR1BePDq8CgGw)
 - [TASM Daily](https://www.youtube.com/channel/UCkHyQwjd07UyOtqnD7sWfMw)
-  - RagDas's YouTube channel.
+  - RagDas' YouTube channel.
