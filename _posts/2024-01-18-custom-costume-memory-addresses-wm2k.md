@@ -64,7 +64,7 @@ The table below details what each byte of the string represents:
 | Offset 0x06 | Upper Attire |
 | Offset 0x07 | Upper Attire Color 1 |
 | Offset 0x08 | Upper Attire Color 2 |
-| Offset 0x09 | Head Shjape |
+| Offset 0x09 | Head Shape |
 | Offset 0x0A | Hair Color |
 | Offset 0x0B | Unknown 1 |
 | Offset 0x0C | Face Number |

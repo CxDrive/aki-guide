@@ -29,7 +29,7 @@ layout: default
 
                         {% for post in site.posts %}
 
-                        <a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                        <a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 
                         {% endfor %}
 
@@ -51,7 +51,7 @@ layout: default
                         searchInput: document.getElementById('search-input'),
                         resultsContainer: document.getElementById('results-container'),
                         json: '{{ '/search.json' | relative_url }}',
-                        searchResultTemplate: '<a class="list-group-item list-group-item-action" style="padding: .5rem" data-toggle="tooltip" title="Posted {date}" href="{url}">{title}</a>',
+                        searchResultTemplate: '<a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {date}" href="{url}">{title}</a>',
                         noResultsText: 'No results found',
                         limit: 10,
                         fuzzy: false,

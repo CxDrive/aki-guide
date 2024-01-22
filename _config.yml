@@ -4,7 +4,7 @@ logo: /assets/img/logo.png
 permalink: pretty
 
 domain: aki.guide
-url: http://aki.guide
+url: https://aki.guide
 baseurl: ""
 
 collections:
