@@ -3,7 +3,7 @@ layout: page
 title: Games
 ---
 
-The links below will take you directly to lists of posts tagged for each game.  If you get a 404, there are currently no posts available under that tag[^1]
+The links below will take you directly to lists of posts tagged for each game.  If you get no posts on the page you are sent too, there are currently no posts available under that tag.[^1]
 
 [^1]: Note from C-Drive: *Trust me, I'm working on it!*&nbsp;&nbsp;
 
