@@ -9,7 +9,7 @@ tags: ["nomercy","gameshark"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/royal-rumble-players-t214.html
 assetid: ac04194b
-published: false
+published: true
 ---
 
 > Normally the game lets you select only certain numbers such as 8, 16, etc. It is possible however to use different ones. I've just found this useful addy:

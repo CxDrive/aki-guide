@@ -12,7 +12,9 @@ assetid: f1eecaaf
 published: true
 ---
 
-So the rock's belt is hidden in no mercy but I've had an idea. You'll notice that stone cold has the smoking skull belt when he win the championship. Now you can give this to anyone as its the nick name 'stone cold' that makes him have that belt. Give anyone the nickname stone cold and they'll also use the smoking skull belt when they win it. Can something similar be done with the rock? ie, if the player is named the rock, then championship is replaced with brahma bull belt?
+> So the rock's belt is hidden in no mercy but I've had an idea. You'll notice that stone cold has the smoking skull belt when he win the championship. Now you can give this to anyone as its the nick name 'stone cold' that makes him have that belt. Give anyone the nickname stone cold and they'll also use the smoking skull belt when they win it. Can something similar be done with the rock? ie, if the player is named the rock, then championship is replaced with brahma bull belt?
+>
+> -- <cite>Unknown</cite>
 
 > I had a look into this. Apparently the game uses an unknown bit in the moveset to determine who should use the Brahma Bull belt (that was interesting). If you add these codes the player will use this belt instead of the standard World Championship.
 >
