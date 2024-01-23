@@ -101,5 +101,6 @@ div#null-div.list-group {
 }
 
 img {
-  text-align: center !important;
+  margin: auto;
+  width: 50%;
 }

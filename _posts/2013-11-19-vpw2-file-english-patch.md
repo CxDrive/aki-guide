@@ -7,7 +7,7 @@ description:
 summary:
 tags: ["vps2","file"]
 source: WldFb Archive Forum
-source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/vpw2-english-patch-t723.html
+source-url:
 assetid: e465c3e1
 published: true
 ---
