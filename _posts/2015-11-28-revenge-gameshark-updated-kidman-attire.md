@@ -2,7 +2,7 @@
 layout: post
 author: S.K. Stylez
 date: 2015-11-28
-title: "Gameshark Code - WCW/nWo Revenge - Updated Kidman Attire"
+title: WCW/nWo Revenge - Gameshark Code - Updated Kidman Attire
 description:
 summary:
 tags: ["revenge","gameshark"]

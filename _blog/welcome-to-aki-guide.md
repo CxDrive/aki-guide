@@ -14,4 +14,4 @@ My hope with aki.guide is to gather this knowledge somewhere it can be stored an
 
 Hosting on GitHub via flat files also keeps the costs down and the management to a minimum. I only have to pay to keep the domain name.
 
-I'll admit, there's self-interest here too. I'm trying to produce my own community release for the N64, and combing through this knowledge will only make that easier to accomplish. Recently, I even figured out how to [pull custom costume strings from Wrestlemania 2000's Edit mode](../../posts/wm2k-custom-costume-memory-addresses/) for replacement.
+I'll admit, there's self-interest here too. I'm trying to produce my own community release for the N64, and combing through this knowledge will only make that easier to accomplish. Recently, I even figured out how to [pull custom costume strings from Wrestlemania 2000's Edit mode](../../posts/wm2k-addresses-custom-costumes/) for replacement.
