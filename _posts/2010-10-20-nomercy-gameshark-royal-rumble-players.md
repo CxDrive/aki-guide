@@ -17,21 +17,19 @@ published: true
     800AAABC
 
 > The number of players is loaded there right after you select it.
-
-##### So, if you use this code:
+> So, if you use this code:
 
     810AAABC 0006
 
 > you'll play a royal rumble match with 6 players
-
+>
 > I've also tried numbers such as the real royal rumble (30) and 50. I haven't completed the matches, but they seemed to work fine.
 >
-
-##### 30 players
+> 30 players
 
     810AAABC 001E
 
-##### 50 players
+> <50 players
 
     810AAABC 0032
 
@@ -45,11 +43,14 @@ published: true
 ---
 
 > Update:
-
-##### With 60 men it seems to work:
+>
+> With 60 men it seems to work:
 
     810AAABC 003C
 
-##### The maximum possible is 67:
+> The maximum possible is 67:
 
     810AAABC 0043
+
+>
+> -- <cite>WldFb</cite>
