@@ -13,8 +13,7 @@ published: true
 ---
 
 > Instructions:
-> To install the patch you'll need Ninja Patcher and obviously a copy of the original VPW2 ROM. You can read the guide on WldFb's forum.
-> [original link to referenced guide removed]
+> To install the patch you'll need Ninja Patcher and obviously a copy of the original VPW2 ROM. You can read the guide on WldFb's forum.[^1]
 >
 > For each release of the patch, you'll need to apply it to an unpatched ROM.
 >
@@ -48,22 +47,34 @@ published: true
 >
 > -- <cite>S.K. Stylez</cite>
 
+[^1]: Note from C-Drive: *Original link to the referenced guide by WldFb has been removed - link was a malware trap...*&nbsp;&nbsp;
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_01.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_02.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_03.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_04.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_05.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_06.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_07.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_08.webp)
+
 ![Screenshot](../../assets/img/{{ page.assetid }}_09.webp)
 
 > Current Version: Beta 2
-> Download
-
+>
+> Download[^2]
+>
 > Previous Versions:
-> Beta 1
-
+>
+> Beta 1[^3]
+>
 > Enjoy the patch guys, and hopefully we should be able to see some saves being made for VPW2. Oh, and I'm also going to try and edit the appearances of the unlicensed guys...somehow...but that'll be once the patch is completed.
 >
 > :)
@@ -79,3 +90,7 @@ published: true
 > - Everyone else that I left out
 >
 > -- <cite>S.K. Stylez</cite>
+
+[^2]: Note from C-Drive: *Hoping to add a download link soon, trying to decide how I want to handle file hosting.*&nbsp;&nbsp;
+
+[^3]: Note from C-Drive: *Hoping to add a download link soon, trying to decide how I want to handle file hosting.*&nbsp;&nbsp;
