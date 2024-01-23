@@ -49,9 +49,9 @@ published: true
 
 [^1]: Note from C-Drive: *Original link to the referenced guide by WldFb has been removed - link was a malware trap...*&nbsp;&nbsp;
 
-![Screenshot](../../assets/img/{{ page.assetid }}_01.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_01.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_02.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_02.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ![Screenshot](../../assets/img/{{ page.assetid }}_03.webp)
 
