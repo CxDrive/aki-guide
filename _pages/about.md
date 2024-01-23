@@ -8,6 +8,7 @@ aki.guide is dedicated to sharing knowledge about the wrestling games produced b
 ### Technical Info
 
 - aki.guide is hosted via [GitHub Pages](https://pages.github.com/).
+- aki.guide was built with [Jekyll](https://jekyllrb.com/).
 - The aki.guide repository can be found [here](https://github.com/CxDrive/aki-guide).
 - Custom-built theme, development of which sourced a lot of ideas from looking at the code of [sidey](https://github.com/ronv/sidey), [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll), and a couple of other themes on GitHub, and using my ancient HTML/CSS/JS techniques to put something worthwhile together in around four days.
 - All Posts and Blog entries are written in flat-file [Markdown](https://www.markdownguide.org/) text documents.

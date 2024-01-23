@@ -1,50 +1,9 @@
 # aki-guide
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
+Welcome to the GitHub repository for [aki.guide](https://aki.guide).  The site is built using [Jekyll](https://jekyllrb.com/) and hosted via [GitHub Pages](https://pages.github.com/). You'll see the back end technical part of what makes the site run within this repository.
 
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+[aki.guide](https://aki.guide) is intended as a library of sorts, gathering information related to wrestling games produced by the AKI Corporation between 1996 and 2007 across various video game consoles. This information has been fairly well-preserved through the years via multiple forums and through the efforts of members of the community. The goal is to centralize this knowledge into a place where one can visit and have all the information they need. To make sure that knowledge is easily accessible, and at their fingertips, in order to "hack" these classic games however they might like. Hopefully, one day, releasing their own variation of these classic games as well for the community to enjoy.
 
-TODO: Delete this and the text above, and describe your gem
+To the end of centralizing the knowledge and information, there needs to be a way to make sure it reaches beyond the life span of any one person or web site as well. Hosting via GitHub Pages accomplishes that, as inside this repository are flat-file Markdown text documents. These documents can easily be forked from this repository, or even directly downloaded, making sure the information continues on. If [aki.guide](https://aki.guide) goes away, the knowledge gathered to it, is here to stay.
 
-## Installation
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "aki-guide-theme"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: aki-guide-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install aki-guide
-
-## Usage
-
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/aki-guide. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `aki-guide.gemspec` accordingly.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Each Markdown file has front matter information, containing original dates, as well as the author and original source the information is attributed to. Source URLs are also available where there isn't a concern to the safety of users. Links have also been removed from the content of posts for the same reason. The front matter also includes an unique **assetid** attribute. This attribute links to the related images and/or files that are associated with that particular post. This makes sure that the original images and files remain linked to the Markdown document in some fashion.
