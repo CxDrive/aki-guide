@@ -2,7 +2,6 @@
   padding-left: calc(var(--bs-gutter-x) * .5);
 }
 
-
 .toolarea {
   padding-bottom: 1rem;
 }
@@ -102,6 +101,5 @@ div#null-div.list-group {
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+  text-align: center !important;
 }
