@@ -5,7 +5,7 @@ date: 2014-11-19
 title: Virtual Pro-Wrestling 2 - File - English Patch
 description:
 summary:
-tags: ["vps2","file"]
+tags: ["vpw2","file"]
 source: WldFb Archive Forum
 source-url:
 assetid: e465c3e1
