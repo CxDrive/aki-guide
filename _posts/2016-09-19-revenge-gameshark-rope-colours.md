@@ -16,7 +16,7 @@ published: true
 >
 > -- <cite>S.K. Stylez</cite>
 
-![Screenshot](../../assets/img/{{ page.assetid }}_01.jpeg)
+![Screenshot](../../assets/img/{{ page.assetid }}_01.jpeg){:.centered-img}
 
 ##### Instructions
 

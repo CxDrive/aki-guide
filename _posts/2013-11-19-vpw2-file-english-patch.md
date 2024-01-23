@@ -49,23 +49,23 @@ published: true
 
 [^1]: Note from C-Drive: *Original link to the referenced guide by WldFb has been removed - link was a malware trap...*&nbsp;&nbsp;
 
-![Screenshot](../../assets/img/{{ page.assetid }}_01.webp){:style="display:block; margin-left:auto; margin-right:auto"}
+![Screenshot](../../assets/img/{{ page.assetid }}_01.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_02.webp){:style="display:block; margin-left:auto; margin-right:auto"}
+![Screenshot](../../assets/img/{{ page.assetid }}_02.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_03.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_03.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_04.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_04.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_05.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_05.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_06.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_06.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_07.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_07.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_08.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_08.webp){:.centered-img}
 
-![Screenshot](../../assets/img/{{ page.assetid }}_09.webp)
+![Screenshot](../../assets/img/{{ page.assetid }}_09.webp){:.centered-img}
 
 > Current Version: Beta 2
 >

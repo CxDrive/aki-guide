@@ -99,3 +99,8 @@ div#null-div.list-group {
   padding-top: 1rem;
   padding-left: 1rem;
 }
+
+.centered-img {
+  max-width: 100%;
+  height: auto;
+}
