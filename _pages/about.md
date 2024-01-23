@@ -14,6 +14,7 @@ aki.guide is dedicated to sharing knowledge about the wrestling games produced b
 - Hosting on GitHub Pages is no cost, the only money I'm putting in to this is for the domain name.
 
 
-aki.guide is built and managed by C-Drive.{:.centered-txt}
+aki.guide is built and managed by C-Drive.
+{:.centered-txt}
 
 ![C-Drive Logo](../../assets/img/c-drive.png){:.centered-img}
