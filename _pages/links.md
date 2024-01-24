@@ -20,14 +20,22 @@ title: Links
   - A release based on Virtual Pro Wrestling 2 created by freem.
 
 
-### Discord Channels
+### Discord
 
 - [Virtual Pro-Wrestling 2 freem Edition Discord Server](https://discord.gg/PRHVGb3)
+
+
+### Forums
+
+- [Old Skool Reunion](http://oldskoolreunion.com/forum/)
+- [Virtual Pro Wrestling 2 Dojo](https://www.tapatalk.com/groups/vpw2dojo/)
+- [WldFb Archive Forum](https://www.tapatalk.com/groups/wldfbarchiveforum/)
 
 
 ### Patreons
 
 - [Retro Randy Price - creating AKI N64 Mods for Console](https://www.patreon.com/AKI_ROMS)
+
 
 ### Resources
 

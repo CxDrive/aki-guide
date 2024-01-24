@@ -66,8 +66,7 @@ once you've applied enough layers, blur it
 
 
 > what tool do you usually use for blurring?
->
-> -- <cite>Dweeb</cite>
+
 
 > the blur brush
 >
