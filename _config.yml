@@ -1,6 +1,7 @@
 site: aki.guide
 title: aki.guide
 logo: /assets/img/logo.png
+ogp: /assets/img/ogp.png
 permalink: pretty
 
 domain: aki.guide
