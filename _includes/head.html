@@ -7,9 +7,21 @@
 
     <title>aki.guide</title>
 
+    <meta property="og:title" content="aki.guide" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:image" content="{{ site.url }}/apple-touch-icon.png" />
+    <meta property="og:site_name" content="aki.guide" />
+
     {% else %}
 
     <title>aki.guide - {{ page.title }}</title>
+
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:image" content="{{ site.url }}/apple-touch-icon.png" />
+    <meta property="og:site_name" content="aki.guide" />
 
     {% endif %}
 
