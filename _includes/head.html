@@ -12,7 +12,6 @@
     <meta property="og:description" content="{{ page.description }}" />
     <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:site_name" content="aki.guide" />
-    <meta property="og:image" content="{{ site.ogp | relative_url }}" />
 
     {% else %}
 
@@ -24,15 +23,15 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="aki.guide" />
 
-    {% if page.ogp == "true" %}
+    {% endif %}
 
-    <meta property="og:image" content="{{ '/assets/img/{{ page.assetid }}_ogp.png' | relative_url }}" />
-
-    {% else %}
+    {% if page.ogp == blank %}
 
     <meta property="og:image" content="{{ site.ogp | relative_url }}" />
 
-    {% endif %}
+    {% else %}
+
+    <meta property="og:image" content="{{ '/assets/img/{{ page.assetid }}_ogp.png' | relative_url }}" />
 
     {% endif %}
 
