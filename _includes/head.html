@@ -25,13 +25,13 @@
 
     {% endif %}
 
-    {% if page.ogp %}
+    {% if page.ogp == "yes" %}
 
-    <meta property="og:image" content="{{ site.ogp | relative_url }}" />
+    <meta property="og:image" content="{{ site.url}}/assets/img/{{ page.assetid }}_ogp.png" />
 
     {% else %}
 
-    <meta property="og:image" content="{{ site.url}}/assets/img/{{ page.assetid }}_ogp.png" />
+    <meta property="og:image" content="{{ site.ogp | relative_url }}" />
 
     {% endif %}
 
