@@ -9,7 +9,7 @@ tags: ["worldtour","guide"]
 source: Virtual Pro-Wrestling 2 freem Edition Discord
 source-url:
 assetid: 52cc90f6
-opengraph: yes
+ogp: true
 published: true
 ---
 
