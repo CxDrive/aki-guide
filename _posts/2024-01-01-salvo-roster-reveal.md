@@ -2,7 +2,7 @@
 layout: post
 author: RagDas
 date: 2024-01-01
-title: VPW Salvo Roster Reveal + Vader vs Stone Cold
+title: Virtual Pro Wrestling Salvo Roster Reveal + Vader vs Stone Cold
 description:
 summary:
 category: salvo
