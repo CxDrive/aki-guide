@@ -3,6 +3,7 @@ layout: post
 author: S.K. Stylez
 date: 2014-12-11
 title: AKI Animation Calculator
+slug: aki-animation-calculator
 description:
 summary:
 category: utilities

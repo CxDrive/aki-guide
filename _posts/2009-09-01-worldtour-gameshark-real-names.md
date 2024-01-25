@@ -3,6 +3,7 @@ layout: post
 author: WldFb
 date: 2009-09-01
 title: Gameshark Code - Real Names
+slug: gameshark-real-names
 description:
 summary:
 category: worldtour

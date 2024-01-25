@@ -3,6 +3,7 @@ layout: post
 author: S.K. Stylez
 date: 2014-11-19
 title: Virtual Pro-Wrestling 2 English Patch (2014)
+slug: vpw2-english-patch-2014
 description:
 summary:
 category: vpw2

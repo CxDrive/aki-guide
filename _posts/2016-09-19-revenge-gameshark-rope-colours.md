@@ -3,6 +3,7 @@ layout: post
 author: S.K. Stylez
 date: 2016-09-19
 title: Gameshark Code - Rope Colours
+slug: gameshark-rope-colours
 description:
 summary:
 category: revenge

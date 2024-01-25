@@ -3,6 +3,7 @@ layout: post
 author: C-Drive
 date: 2024-01-18
 title: Memory Addresses for Custom Costumes
+slug: addresses-custom-costumes
 description:
 summary:
 category: wm2k
