@@ -6,6 +6,7 @@ title: VPW Salvo Roster Reveal + Vader vs Stone Cold
 description:
 summary:
 category: salvo
+category-title: Virtual Pro Wrestling Salvo
 tags: ["salvo"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y

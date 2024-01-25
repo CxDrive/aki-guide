@@ -6,6 +6,7 @@ title: Gameshark Code - Real Names (World Tour)
 description:
 summary:
 category: worldtour
+category-title: WCW vs. nWo - World Tour
 tags: ["worldtour","gameshark"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/world-tour-real-names-t88.html

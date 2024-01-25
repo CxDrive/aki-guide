@@ -6,6 +6,7 @@ title: Virtual Pro-Wrestling 2 English Patch (2014)
 description:
 summary:
 category: vpw2
+category-title: Virtual Pro Wrestling 2
 tags: ["vpw2","file"]
 source: WldFb Archive Forum
 source-url:

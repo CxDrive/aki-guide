@@ -6,6 +6,7 @@ title: Creating World Tour Style Portraits
 description:
 summary:
 category: worldtour
+category-title: WCW vs. nWo - World Tour
 tags: ["worldtour","guide"]
 source: Virtual Pro-Wrestling 2 freem Edition Discord
 source-url:

@@ -6,6 +6,7 @@ title: Gameshark Code - Updated Kidman Attire (Revenge)
 description:
 summary:
 category: revenge
+category-title: WCW-nWo Revenge
 tags: ["revenge","gameshark"]
 source: Virtual Pro Wrestling 2 Dojo
 source-url: https://www.tapatalk.com/groups/vpw2dojo/updated-kidman-attire-t302.html

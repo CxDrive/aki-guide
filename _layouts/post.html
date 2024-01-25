@@ -14,11 +14,11 @@ layout: default
 
                     {% if page.source-url == null %}
 
-                    This information is attributed to {{ page.author }}.
+                    This information about <a href="{{ site.url }}/{{ page.category }}">{{ page.category-title }}</a> is attributed to {{ page.author }}.
 
                     {% else %}
 
-                    This information is attributed to {{ page.author }} and was originally found <a href="{{ page.source-url }}">here</a>.
+                    This information about <a href="{{ site.url }}/{{ page.category }}">{{ page.category-title }}</a> is attributed to {{ page.author }} and was originally found <a href="{{ page.source-url }}">here</a>.
 
                     {% endif %}
 

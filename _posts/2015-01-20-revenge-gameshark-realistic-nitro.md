@@ -6,6 +6,7 @@ title: Gameshark Code - Realistic Nitro (Revenge)
 description:
 summary:
 category: revenge
+category-title: WCW-nWo Revenge
 tags: ["revenge","gameshark"]
 source: Virtual Pro Wrestling 2 Dojo
 source-url: https://www.tapatalk.com/groups/vpw2dojo/realistic-nitro-t300.html

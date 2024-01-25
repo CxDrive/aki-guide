@@ -6,6 +6,7 @@ title: Rob Van Dam vs. Stone Cold (VPW Studio Test Hack)
 description:
 summary:
 category: worldtour
+category-title: WCW vs. nWo - World Tour
 tags: ["worldtour"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=ctqVdcfedl0

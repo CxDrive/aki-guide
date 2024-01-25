@@ -6,6 +6,7 @@ title: Addresses - Movesets (VPW64)
 description:
 summary:
 category: vpw64
+category-title: Virtual Pro Wrestling 64
 tags: ["vpw64","addresses"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/vpw64-movesets-rom-addresses-t789.html

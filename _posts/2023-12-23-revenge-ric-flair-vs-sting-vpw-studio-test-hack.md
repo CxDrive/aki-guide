@@ -6,6 +6,7 @@ title: Ric Flair vs. nWo Sting (VPW Studio Test Hack)
 description:
 summary:
 category: revenge
+category-title: WCW-nWo Revenge
 tags: ["revenge"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=NnyMw_e_eYs

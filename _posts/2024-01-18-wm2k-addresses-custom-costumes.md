@@ -6,6 +6,7 @@ title: Memory Addresses for Custom Costumes (WM2K)
 description:
 summary:
 category: wm2k
+category-title: WWF Wrestlemania 2000
 tags: ["wm2k","addresses"]
 source: C-Drive
 source-url:
