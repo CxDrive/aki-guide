@@ -24,9 +24,9 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="aki.guide" />
 
-    {% if {{ post.ogp }} == "true" %}
+    {% if {{ page.ogp }} == "true" %}
 
-    <meta property="og:image" content="{{ '/assets/img/{{ post.assetid }}_ogp.png' | relative_url }}" />
+    <meta property="og:image" content="{{ '/assets/img/{{ page.assetid }}_ogp.png' | relative_url }}" />
 
     {% else %}
 
