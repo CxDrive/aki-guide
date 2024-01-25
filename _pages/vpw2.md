@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WCW vs nWo - World Tour
+title: Virtual Pro Wrestling 2
 ---
 
 Under construction.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WCW vs nWo - World Tour
+title: WCW-nWo Revenge
 ---
 
 Under construction.

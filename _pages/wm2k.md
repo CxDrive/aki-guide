@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WCW vs nWo - World Tour
+title: WWF Wrestlemania 2000
 ---
 
 Under construction.
