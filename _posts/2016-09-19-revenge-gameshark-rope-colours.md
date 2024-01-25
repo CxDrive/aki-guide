@@ -2,9 +2,10 @@
 layout: post
 author: S.K. Stylez
 date: 2016-09-19
-title: WCW/nWo Revenge - Gameshark Code - Rope Colours
+title: Gameshark Code - Rope Colours (Revenge)
 description:
 summary:
+category: revenge
 tags: ["revenge","gameshark"]
 source: Virtual Pro Wrestling 2 Dojo
 source-url: https://www.tapatalk.com/groups/vpw2dojo/rope-colours-t304.html

@@ -2,9 +2,10 @@
 layout: post
 author: WldFb
 date: 2020-06-07
-title: WWF No Mercy - Gameshark Code - Rock's Belt
+title: Gameshark Code - Rock's Belt (No Mercy)
 description:
 summary:
+category: nomercy
 tags: ["nomercy","gameshark"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/rock-39-s-belt-t608.html

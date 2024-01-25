@@ -2,9 +2,10 @@
 layout: post
 author: S.K. Stylez
 date: 2015-01-20
-title: WCW/nWo Revenge - Gameshark Code - Realistic Nitro
+title: Gameshark Code - Realistic Nitro (Revenge)
 description:
 summary:
+category: revenge
 tags: ["revenge","gameshark"]
 source: Virtual Pro Wrestling 2 Dojo
 source-url: https://www.tapatalk.com/groups/vpw2dojo/realistic-nitro-t300.html

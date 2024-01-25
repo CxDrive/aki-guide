@@ -2,7 +2,7 @@
 layout: post
 author: ragdas
 date: 2024-01-15
-title: WCW vs. nWo World Tour - Guide - Creating World Tour Style Portraits
+title: Creating World Tour Style Portraits
 description:
 summary:
 category: worldtour

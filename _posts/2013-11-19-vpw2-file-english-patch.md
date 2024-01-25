@@ -2,9 +2,10 @@
 layout: post
 author: S.K. Stylez
 date: 2014-11-19
-title: Virtual Pro-Wrestling 2 - File - English Patch
+title: Virtual Pro-Wrestling 2 English Patch (2014)
 description:
 summary:
+category: vpw2
 tags: ["vpw2","file"]
 source: WldFb Archive Forum
 source-url:

@@ -2,9 +2,10 @@
 layout: post
 author: WldFb
 date: 2009-09-01
-title: WCW vs. nWo World Tour - Gameshark Code - Real Names
+title: Gameshark Code - Real Names (World Tour)
 description:
 summary:
+category: worldtour
 tags: ["worldtour","gameshark"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/world-tour-real-names-t88.html

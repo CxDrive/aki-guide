@@ -2,9 +2,10 @@
 layout: post
 author: RagDas
 date: 2023-05-12
-title: WCW vs. nWo World Tour - Rob Van Dam vs. Stone Cold (VPW Studio Test Hack)
+title: Rob Van Dam vs. Stone Cold (VPW Studio Test Hack)
 description:
 summary:
+category: worldtour
 tags: ["worldtour"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=ctqVdcfedl0

@@ -2,9 +2,10 @@
 layout: post
 author: C-Drive
 date: 2024-01-18
-title: Wrestlemania 2000 - Memory Addresses - Custom Costumes
+title: Memory Addresses for Custom Costumes (WM2K)
 description:
 summary:
+category: wm2k
 tags: ["wm2k","addresses"]
 source: C-Drive
 source-url:

@@ -2,9 +2,10 @@
 layout: post
 author: WldFb
 date: 2020-06-07
-title: Virtual Pro-Wrestling 64 - Addresses - Movesets
+title: Addresses - Movesets (VPW64)
 description:
 summary:
+category: vpw64
 tags: ["vpw64","addresses"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/vpw64-movesets-rom-addresses-t789.html

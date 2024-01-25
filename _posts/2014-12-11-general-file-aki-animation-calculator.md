@@ -2,9 +2,10 @@
 layout: post
 author: S.K. Stylez
 date: 2014-12-11
-title: General - File - AKI Animation Calculator
+title: AKI Animation Calculator
 description:
 summary:
+category: general
 tags: ["general","file"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/aki-aki-animation-calculator-t726.html

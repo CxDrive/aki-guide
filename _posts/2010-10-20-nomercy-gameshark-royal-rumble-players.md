@@ -2,9 +2,10 @@
 layout: post
 author: WldFb
 date: 2010-10-20
-title: WWF No Mercy - Gameshark Code - Royal Rumble Players
+title: Gameshark Code - Royal Rumble Players (No Mercy)
 description:
 summary:
+category: nomercy
 tags: ["nomercy","gameshark"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/royal-rumble-players-t214.html
