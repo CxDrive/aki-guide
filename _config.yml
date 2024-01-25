@@ -14,7 +14,7 @@ collections:
     permalink: /:name/
   posts:
     output: true
-    permalink: /posts/:slug/
+    permalink: /:categories/:slug/
   blog:
     output: true
     permalink: /blog/:slug/
