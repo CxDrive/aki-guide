@@ -3,6 +3,7 @@ layout: post
 author: WldFb
 date: 2010-10-20
 title: Gameshark Code - Royal Rumble Players
+slug: gameshark-royal-rumble-players
 description:
 summary:
 category: nomercy
