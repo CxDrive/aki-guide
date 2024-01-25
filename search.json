@@ -6,8 +6,9 @@ layout: none
     {
       "title"    : "{{ post.title | escape }}",
       "description" : "{{ post.description | escape }}",
-      "source" : "{{ post.source | escape }}",
+      "author" : "{{ post.author | escape }}",
       "category" : "{{ post.category }}",
+      "category-title" : "{{ post.category-title }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}"
