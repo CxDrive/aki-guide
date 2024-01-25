@@ -24,8 +24,6 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="aki.guide" />
 
-    {% for static_file in site.static_files %}
-
     {% if static_file.path == "{{ '/assets/img/{{ post.assetid }}_ogp.png' | relative_url }}" %}
 
     <meta property="og:image" content="{{ '/assets/img/{{ post.assetid }}_ogp.png' | relative_url }}" />
@@ -35,8 +33,6 @@
     <meta property="og:image" content="{{ site.ogp | relative_url }}" />
 
     {% endif %}
-
-    {% endfor %}
 
     {% endif %}
 
