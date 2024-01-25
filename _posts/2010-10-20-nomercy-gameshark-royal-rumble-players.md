@@ -2,7 +2,7 @@
 layout: post
 author: WldFb
 date: 2010-10-20
-title: Gameshark Code - Royal Rumble Players (No Mercy)
+title: Gameshark Code - Royal Rumble Players
 description:
 summary:
 category: nomercy

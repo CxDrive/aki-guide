@@ -2,7 +2,7 @@
 layout: post
 author: WldFb
 date: 2020-06-07
-title: Addresses - Animation Values (VPW64)
+title: Addresses - Animation Values
 description:
 summary:
 category: vpw64

@@ -2,7 +2,7 @@
 layout: post
 author: WldFb
 date: 2020-06-07
-title: Addresses - Movesets (VPW64)
+title: Addresses - Movesets
 description:
 summary:
 category: vpw64

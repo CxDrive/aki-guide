@@ -2,7 +2,7 @@
 layout: post
 author: S.K. Stylez
 date: 2015-01-20
-title: Gameshark Code - Realistic Nitro (Revenge)
+title: Gameshark Code - Realistic Nitro
 description:
 summary:
 category: revenge

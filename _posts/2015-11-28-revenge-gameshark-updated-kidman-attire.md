@@ -2,7 +2,7 @@
 layout: post
 author: S.K. Stylez
 date: 2015-11-28
-title: Gameshark Code - Updated Kidman Attire (Revenge)
+title: Gameshark Code - Updated Kidman Attire
 description:
 summary:
 category: revenge

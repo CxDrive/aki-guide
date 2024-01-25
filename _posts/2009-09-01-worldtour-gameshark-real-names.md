@@ -2,7 +2,7 @@
 layout: post
 author: WldFb
 date: 2009-09-01
-title: Gameshark Code - Real Names (World Tour)
+title: Gameshark Code - Real Names
 description:
 summary:
 category: worldtour
