@@ -51,7 +51,7 @@ layout: default
                         searchInput: document.getElementById('search-input'),
                         resultsContainer: document.getElementById('results-container'),
                         json: '{{ '/search.json' | relative_url }}',
-                        searchResultTemplate: '<a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {date}" href="{url}">{title}</a>',
+                        searchResultTemplate: '<a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {date}" href="{url}">{title}</a>&nbsp;&nbsp;<span style="color: #dee2e6">#{category }',
                         noResultsText: 'No results found',
                         limit: 10,
                         fuzzy: false,
