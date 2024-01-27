@@ -3,11 +3,6 @@ layout: page
 title: Games
 ---
 
-The links below will take you directly to lists of posts for each release.
-
-
-
-
 - [Virtual Pro Wrestling Salvo](../salvo/) (Coming Soon) *by ragdas*
 - [WCW Saturday Night](../wcwsatnight/) (August 2023) *by G.M. Spectre*
 - [La Fin Du Tour - Virtual Pro Wrestling Alpha](../lafindutour/) (February 2023) *by ragdas*
