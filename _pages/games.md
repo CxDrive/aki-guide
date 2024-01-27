@@ -24,5 +24,8 @@ The links below will take you directly to lists of posts for each release.
 | [WCW/nWo Revenge](../revenge/) | N64 | October 1998 | AKI |
 | [Virtual Pro Wrestling 64](../vpw64/) | N64 | December 1997 | AKI |
 | [WCW vs nWo: World Tour](../worldtour/) | N64 | December 1997 | AKI |
+
+----
+
 | [WCW vs The World](../vsworld/) | PSX | March 1997 | AKI |
 | [Virtual Pro Wrestling](../vpw/) | PSX | September 1996 |
