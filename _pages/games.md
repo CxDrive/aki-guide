@@ -3,9 +3,8 @@ layout: page
 title: Games
 ---
 
-The links below will take you directly to lists of posts tagged for each game.  If you get a 404 page there are currently no posts available for that release.[^1]
+The links below will take you directly to lists of posts for each release.
 
-[^1]: Note from C-Drive: *Trust me, I'm working on it!*&nbsp;&nbsp;
 
 ### Nintendo 64 *(Community Releases)*
 
@@ -30,8 +29,3 @@ The links below will take you directly to lists of posts tagged for each game.  
 
 - [WCW vs The World](../vsworld/) (March 1997)
 - [Virtual Pro Wrestling](../vpw/) (September 1996)
-
-
-
-
-
