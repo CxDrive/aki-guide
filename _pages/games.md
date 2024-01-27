@@ -6,7 +6,7 @@ title: Games
 The links below will take you directly to lists of posts for each release.
 
 
-### Nintendo 64 *(Community Releases)*
+
 
 - [Virtual Pro Wrestling Salvo](../salvo/) (Coming Soon) *by ragdas*
 - [WCW Saturday Night](../wcwsatnight/) (August 2023) *by G.M. Spectre*
@@ -16,7 +16,7 @@ The links below will take you directly to lists of posts for each release.
 - [WCW/nWo 레벤지 (REVENJI)](../revenji/) (February 2020) *by ragdas*
 - [Virtual Pro Wrestling 2 - Freem Edition](../vpw2-fe/) (January 2020) *by freem*
 
-### Nintendo 64 *(AKI Releases)*
+----
 
 - [WWF No Mercy](../nomercy/) (November 2000)
 - [Virtual Pro Wrestling 2](../vpw2/) (January 2000)
@@ -25,7 +25,7 @@ The links below will take you directly to lists of posts for each release.
 - [Virtual Pro Wrestling 64](../vpw64/) (December 1997)
 - [WCW vs nWo: World Tour](../worldtour/) (December 1997)
 
-### Sony PlayStation *(AKI Releases)*
+----
 
 - [WCW vs The World](../vsworld/) (March 1997)
 - [Virtual Pro Wrestling](../vpw/) (September 1996)
