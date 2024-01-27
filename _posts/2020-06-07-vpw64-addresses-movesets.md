@@ -5,7 +5,6 @@ date: 2020-06-07
 title: Addresses - Movesets
 slug: addresses-movesets
 description:
-summary:
 category: vpw64
 category-title: Virtual Pro Wrestling 64
 tags: ["vpw64","addresses"]

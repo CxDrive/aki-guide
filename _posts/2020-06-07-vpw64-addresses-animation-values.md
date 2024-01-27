@@ -5,7 +5,6 @@ date: 2020-06-07
 title: Addresses - Animation Values
 slug: addresses-animation-values
 description:
-summary:
 category: vpw64
 category-title: Virtual Pro Wrestling 64
 tags: ["vpw64","addresses"]

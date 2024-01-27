@@ -5,7 +5,6 @@ date: 2023-05-12
 title: Rob Van Dam vs. Stone Cold (VPW Studio Test Hack)
 slug: rob-van-dam-vs-stone-cold-vpw-studio-test-hack
 description:
-summary:
 category: worldtour
 category-title: WCW vs. nWo - World Tour
 tags: ["worldtour"]

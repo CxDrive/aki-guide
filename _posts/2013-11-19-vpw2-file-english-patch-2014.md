@@ -5,7 +5,6 @@ date: 2014-11-19
 title: Virtual Pro-Wrestling 2 English Patch (2014)
 slug: vpw2-english-patch-2014
 description:
-summary:
 category: vpw2
 category-title: Virtual Pro Wrestling 2
 tags: ["vpw2","file"]

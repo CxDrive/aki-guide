@@ -11,7 +11,7 @@ View blog entries sorted by Category, <a href="{{ site.url }}/categories/">here<
 
 <div class="list-group">
 
-<a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {{ blog.date | date: "%-d %B %Y" }}" href="{{ site.url }}{{ blog.url }}">{{ blog.title }}</a>
+<a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {{ blog.date | date: "%-d %B %Y" }}" href="{{ site.url }}{{ blog.url }}">{{ blog.title }}&nbsp;&nbsp;<span style="color: #dee2e6">#{{ blog.category }}</span></a>
 
 </div>
 

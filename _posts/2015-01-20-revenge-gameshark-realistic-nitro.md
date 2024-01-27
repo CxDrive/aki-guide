@@ -5,7 +5,6 @@ date: 2015-01-20
 title: Gameshark Code - Realistic Nitro
 slug: gameshark-realistic-nitro
 description:
-summary:
 category: revenge
 category-title: WCW-nWo Revenge
 tags: ["revenge","gameshark"]

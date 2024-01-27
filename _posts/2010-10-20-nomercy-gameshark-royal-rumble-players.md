@@ -5,7 +5,6 @@ date: 2010-10-20
 title: Gameshark Code - Royal Rumble Players
 slug: gameshark-royal-rumble-players
 description:
-summary:
 category: nomercy
 category-title: WWF No Mercy
 tags: ["nomercy","gameshark"]

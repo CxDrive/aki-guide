@@ -5,7 +5,6 @@ date: 2024-01-15
 title: Creating World Tour Style Portraits
 slug: creating-world-tour-style-portraits
 description:
-summary:
 category: worldtour
 category-title: WCW vs. nWo - World Tour
 tags: ["worldtour","guide"]

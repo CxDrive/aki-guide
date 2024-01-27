@@ -5,7 +5,6 @@ date: 2024-01-18
 title: Memory Addresses for Custom Costumes
 slug: addresses-custom-costumes
 description:
-summary:
 category: wm2k
 category-title: WWF Wrestlemania 2000
 tags: ["wm2k","addresses"]

@@ -5,7 +5,6 @@ date: 2020-06-07
 title: Gameshark Code - Rock's Belt
 slug: gameshark-rocks-belt
 description:
-summary:
 category: nomercy
 category-title: WWF No Mercy
 tags: ["nomercy","gameshark"]

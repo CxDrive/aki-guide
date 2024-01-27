@@ -5,7 +5,6 @@ date: 2023-12-23
 title: Ric Flair vs. nWo Sting (VPW Studio Test Hack)
 slug: ric-flair-vs-sting-vpw-studio-test-hack
 description:
-summary:
 category: revenge
 category-title: WCW-nWo Revenge
 tags: ["revenge"]
