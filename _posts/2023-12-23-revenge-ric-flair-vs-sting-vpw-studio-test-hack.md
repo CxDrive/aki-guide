@@ -11,6 +11,7 @@ tags: ["revenge"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=NnyMw_e_eYs
 assetid: 7728257e
+ogp: true
 published: true
 ---
 

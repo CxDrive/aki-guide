@@ -11,6 +11,7 @@ tags: ["worldtour"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=ctqVdcfedl0
 assetid: 1a2d05b5
+ogp: true
 published: true
 ---
 

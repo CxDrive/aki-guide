@@ -11,6 +11,7 @@ tags: ["salvo"]
 source: YouTube
 source-url: https://www.youtube.com/watch?v=HRpkhRNcf1Y
 assetid: ae2303a8
+ogp: true
 published: true
 ---
 
