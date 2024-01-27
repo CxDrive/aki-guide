@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WCW/nWo 레벤지 (REVENJI)
+logo: revenji
 ---
 
 <div class="list-group">

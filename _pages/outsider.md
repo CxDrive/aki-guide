@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Project Outsider
+logo: outsider
 ---
 
 <div class="list-group">
 
-{% for post in site.categories.project-outsider %}
+{% for post in site.categories.outsider %}
 
 <a class="list-group-item list-group-item-action" data-toggle="tooltip" title="Posted {{ post.date | date: "%-d %B %Y" }}" href="{{ site.url }}{{ post.url }}">{{ post.title }}&nbsp;&nbsp;<span style="color: #dee2e6">#{{ post.category }}</span></a>
 

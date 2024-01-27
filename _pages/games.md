@@ -5,11 +5,11 @@ title: Games
 
 - [Virtual Pro Wrestling Salvo](../salvo/) (Releases February 11th, 2024) *by ragdas*
 - [WCW Saturday Night](../wcwsatnight/) (August 2023) *by G.M. Spectre*
-- [La Fin Du Tour - Virtual Pro Wrestling Alpha](../lafindutour/) (February 2023) *by ragdas*
-- [Project Outsider](../project-outsider/) (December 2022) *by G.M. Spectre*
+- [La Fin Du Tour - Virtual Pro Wrestling Alpha](../lfdt/) (February 2023) *by ragdas*
+- [Project Outsider](../outsider/) (December 2022) *by G.M. Spectre*
 - [SUMMIT: Virtual Pro Wrestling Gamma](../summit/) (October 2022) *by ragdas*
 - [WCW/nWo 레벤지 (REVENJI)](../revenji/) (February 2020) *by ragdas*
-- [Virtual Pro Wrestling 2 - Freem Edition](../vpw2-fe/) (January 2020) *by freem*
+- [Virtual Pro Wrestling 2 - Freem Edition](../vpw2fe/) (January 2020) *by freem*
 
 ----
 

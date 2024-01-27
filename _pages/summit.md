@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SUMMIT Virtual Pro Wrestling Gamma
+logo: summit
 ---
 
 <div class="list-group">
