@@ -2,8 +2,8 @@
 layout: post
 author: WldFb
 date: 2020-06-07
-title: Addresses - Movesets
-slug: addresses-movesets
+title: ROM Addresses - Movesets
+slug: rom-addresses-movesets
 description:
 category: vpw64
 category-title: Virtual Pro Wrestling 64

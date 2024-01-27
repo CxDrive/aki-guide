@@ -3,11 +3,11 @@ layout: post
 author: C-Drive
 date: 2024-01-18
 title: Memory Addresses for Custom Costumes
-slug: addresses-custom-costumes
+slug: mem-addresses-custom-costumes
 description:
 category: wm2k
 category-title: WWF Wrestlemania 2000
-tags: ["wm2k","addresses"]
+tags: ["wm2k","memory","addresses"]
 source: C-Drive
 source-url:
 assetid: 58eafef8

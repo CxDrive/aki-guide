@@ -2,12 +2,12 @@
 layout: post
 author: WldFb
 date: 2020-06-07
-title: Addresses - Animation Values
-slug: addresses-animation-values
+title: ROM Addresses - Animation Values
+slug: rom-addresses-animation-values
 description:
 category: vpw64
 category-title: Virtual Pro Wrestling 64
-tags: ["vpw64","addresses"]
+tags: ["vpw64","rom","addresses"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/vpw64-animation-values-t788.html
 assetid: cf6ef735
