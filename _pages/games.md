@@ -18,14 +18,14 @@ The links below will take you directly to lists of posts for each release.
 
 ### Nintendo 64 *(AKI Releases)*
 
-| [WWF No Mercy](../nomercy/) | N64 | November 2000 | AKI |
-| [Virtual Pro Wrestling 2](../vpw2/) | N64 | January 2000 | AKI |
-| [Wrestlemania 2000](../wm2k/) | N64 | October 1999 | AKI |
-| [WCW/nWo Revenge](../revenge/) | N64 | October 1998 | AKI |
-| [Virtual Pro Wrestling 64](../vpw64/) | N64 | December 1997 | AKI |
-| [WCW vs nWo: World Tour](../worldtour/) | N64 | December 1997 | AKI |
+- [WWF No Mercy](../nomercy/) (November 2000)
+- [Virtual Pro Wrestling 2](../vpw2/) (January 2000)
+- [Wrestlemania 2000](../wm2k/) (October 1999)
+- [WCW/nWo Revenge](../revenge/) (October 1998)
+- [Virtual Pro Wrestling 64](../vpw64/) (December 1997)
+- [WCW vs nWo: World Tour](../worldtour/) (December 1997)
 
-----
+### Sony PlayStation *(AKI Releases)*
 
-| [WCW vs The World](../vsworld/) | PSX | March 1997 | AKI |
-| [Virtual Pro Wrestling](../vpw/) | PSX | September 1996 |
+- [WCW vs The World](../vsworld/) (March 1997)
+- [Virtual Pro Wrestling](../vpw/) (September 1996)
