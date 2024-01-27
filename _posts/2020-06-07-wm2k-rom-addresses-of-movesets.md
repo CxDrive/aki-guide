@@ -2,7 +2,7 @@
 layout: post
 author: WldFb
 date: 2020-06-07
-title: ROM Addresses for Movesets
+title: ROM Addresses - Movesets
 slug: rom-addresses-movesets
 description:
 category: wm2k
@@ -15,6 +15,7 @@ published: true
 ---
 
 > These are the ROM addresses for movesets in WM2000 (fighting style/profile and moveset) I found a few years ago. I don't believe I posted them anywhere.
+>
 > There are a few hidden ones (they don't work, probably they use a format from an early version of the game), the names on the right are just my own speculation based on the alphabetical order (since it seems that's how they decided their order in the ROM). Jericho was probably a late addition as his current place doesn't make sense alphabetically and it seems Goldust was supposed to be in the game originally.
 >
 > -- <cite>WldFb</cite>
