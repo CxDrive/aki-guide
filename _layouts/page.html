@@ -2,11 +2,23 @@
 layout: default
 ---
 
+                {% if page.logo == null %}
+
                 <div class="row">
 
                     <h2>{{ page.title }}</h2>
 
                 </div>
+
+                {% else %}
+
+                <div class="row" style="text-center">
+
+                    <img src="{{ site.url}}/assets/img/logo_{{ page.logo }}.png" />
+
+                </div>
+
+                {% endif %}
 
                 <section class="page">
 

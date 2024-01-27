@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WCW vs nWo - World Tour
+logo: worldtour
 ---
 
 <div class="list-group">

@@ -3,6 +3,8 @@ layout: page
 title: WWF Wrestlemania 2000
 ---
 
+![Screenshot](../../assets/img/logo_wm2k.png){:.centered-img}
+
 <div class="list-group">
 
 {% for post in site.categories.wm2k %}
