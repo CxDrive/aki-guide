@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WCW-nWo Revenge
+logo: revenge
 ---
 
 <div class="list-group">

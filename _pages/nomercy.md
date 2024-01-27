@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WWF No Mercy
+logo: nomercy
 ---
 
 <div class="list-group">

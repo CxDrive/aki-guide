@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Virtual Pro Wrestling 64
+logo: vpw64
 ---
 
 <div class="list-group">

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: WWF Wrestlemania 2000
+logo: wm2k
 ---
-
-![Screenshot](../../assets/img/logo_wm2k.png){:.centered-img}
 
 <div class="list-group">
 
