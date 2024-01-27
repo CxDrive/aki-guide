@@ -12,6 +12,7 @@ tags: ["revenge","gameshark"]
 source: Virtual Pro Wrestling 2 Dojo
 source-url: https://www.tapatalk.com/groups/vpw2dojo/updated-kidman-attire-t302.html
 assetid: d9482950
+ogp: true
 published: true
 ---
 

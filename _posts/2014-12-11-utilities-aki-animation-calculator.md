@@ -12,6 +12,7 @@ tags: ["general","file"]
 source: WldFb Archive Forum
 source-url: https://www.tapatalk.com/groups/wldfbarchiveforum/aki-aki-animation-calculator-t726.html
 assetid: 16e13091
+ogp: true
 published: false
 ---
 
