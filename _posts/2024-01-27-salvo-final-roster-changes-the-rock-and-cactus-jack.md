@@ -17,7 +17,7 @@ published: true
 
 
 <div class="ratio ratio-16x9 w-75 mx-auto d-block">
-  <iframe src="https://www.youtube.com/watch?v=f7nGs8gXApg" title="YouTube video" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/f7nGs8gXApg" title="YouTube video" allowfullscreen></iframe>
 </div>
 
 
