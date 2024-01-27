@@ -3,7 +3,7 @@ layout: page
 title: Games
 ---
 
-- [Virtual Pro Wrestling Salvo](../salvo/) (Coming Soon) *by ragdas*
+- [Virtual Pro Wrestling Salvo](../salvo/) (Releases February 11th, 2024) *by ragdas*
 - [WCW Saturday Night](../wcwsatnight/) (August 2023) *by G.M. Spectre*
 - [La Fin Du Tour - Virtual Pro Wrestling Alpha](../lafindutour/) (February 2023) *by ragdas*
 - [Project Outsider](../project-outsider/) (December 2022) *by G.M. Spectre*
