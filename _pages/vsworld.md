@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WCW vs The World
+logo: vsworld
 ---
 
 <div class="list-group">

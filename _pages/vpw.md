@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Virtual Pro Wrestling
+logo: vpw
 ---
 
 <div class="list-group">
