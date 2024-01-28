@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WCW Saturday Night
+logo: wcwsatnight
 ---
 
 <div class="list-group">
