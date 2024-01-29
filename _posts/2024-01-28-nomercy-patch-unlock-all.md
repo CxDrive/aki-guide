@@ -26,7 +26,7 @@ Pre-Patch Checksums & Hashes:
     SHA1:   3566D9B5723291937582453AD0453CE517CFC358
 
 <div class="d-grid gap-2 col-6 mx-auto">
-  <a class="btn btn-primary" href="{{ site.url }}/assets/patch/unlock-all/nomercy-usa-v1-0-unlock-all.xdelta" role="button">Download</button>
+  <a class="btn btn-primary" href="{{ site.url }}/assets/patch/unlock-all/nomercy-usa-v1-0-unlock-all.xdelta" role="button">Download</a>
 </div>
 
 
@@ -47,7 +47,7 @@ Pre-Patch Checksums & Hashes:
     SHA1:   91CEE3D096F4A76644D8B35B9AEAD6448909ABD1
 
 <div class="d-grid gap-2 col-6 mx-auto">
-  <a class="btn btn-primary" href="{{ site.url }}/assets/patch/unlock-all/nomercy-usa-v1-1-unlock-all.xdelta" role="button">Download</button>
+  <a class="btn btn-primary" href="{{ site.url }}/assets/patch/unlock-all/nomercy-usa-v1-1-unlock-all.xdelta" role="button">Download</a>
 </div>
 
 Post-Patch Checksums & Hashes:
