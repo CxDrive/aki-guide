@@ -28,34 +28,38 @@ published: true
 >
 > Find the four bytes from the "old instruction" and replace them with the bytes from the "new instruction".
 >
-> NTSC-U and PAL v1.0
-> z64 ROM address 0x574E4
-> runtime address 800DAFC4
->
-> old instruction
-> lbu $v0, 0xEE40($at) ; 90 22 EE 40
->
-> new instruction
-> addiu $v0, $r0, 0x00FF ; 24 02 00 FF
->
-> NTSC-U v1.1
-> z64 ROM address 0x57444
-> runtime address 800D9A94
->
-> old instruction
-> lbu $v0, 0xD910($at) ; 90 22 D9 10
->
-> new instruction
-> addiu $v0, $r0, 0x00FF ; 24 02 00 FF
->
-> PAL v1.1
-> z64 ROM address 0x57344
-> runtime address 800D9994
->
-> old instruction
-> lbu $v0, 0xD810($at) ; 90 22 D8 10
->
-> new instruction
-> addiu $v0, $r0, 0x00FF ; 24 02 00 FF
->
 > -- <cite>freem</cite>
+
+##### NTSC-U and PAL v1.0
+
+    z64 ROM address 0x574E4
+    runtime address 800DAFC4
+
+    old instruction
+    lbu $v0, 0xEE40($at) ; 90 22 EE 40
+
+    new instruction
+    addiu $v0, $r0, 0x00FF ; 24 02 00 FF
+
+##### NTSC-U v1.1
+
+    z64 ROM address 0x57444
+    runtime address 800D9A94
+
+    old instruction
+    lbu $v0, 0xD910($at) ; 90 22 D9 10
+
+    new instruction
+    addiu $v0, $r0, 0x00FF ; 24 02 00 FF
+
+##### PAL v1.1
+
+    z64 ROM address 0x57344
+    runtime address 800D9994
+
+    old instruction
+    lbu $v0, 0xD810($at) ; 90 22 D8 10
+
+    new instruction
+    addiu $v0, $r0, 0x00FF ; 24 02 00 FF
+
