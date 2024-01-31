@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Virtual Pro Wrestling Salvo
+logo: salvo
 ---
 
 <div class="list-group">
