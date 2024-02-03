@@ -31,6 +31,13 @@ title: Links
 - [Virtual Pro Wrestling 2 Dojo](https://www.tapatalk.com/groups/vpw2dojo/)
 - [WldFb Archive Forum](https://www.tapatalk.com/groups/wldfbarchiveforum/)
 
+### Ko-fi
+
+(buy some of these folks putting out free knowledge and entertainment a coffee!)
+
+- [G.M.Spectre's Ko-fi](https://ko-fi.com/gmspectre)
+- [Melonbread's Ko-fi](https://ko-fi.com/melonbread1979)
+
 
 ### Patreons
 
@@ -47,6 +54,9 @@ title: Links
 
 ### YouTube Channels
 
+- [GMSpectre](https://www.youtube.com/@GMSpectre)
+- [LIGHTNING](https://www.youtube.com/@thejordyad)
+  - thejordyad's YouTube channel
 - [Retro Randy Price](https://www.youtube.com/channel/UC1SXvJLUoyYR1BePDq8CgGw)
 - [TASM Daily](https://www.youtube.com/channel/UCkHyQwjd07UyOtqnD7sWfMw)
   - RagDas' YouTube channel.
