@@ -3,7 +3,7 @@ layout: post
 author: RagDas
 date: 2024-01-27
 title: Final Roster Changes + The Rock vs. Cactus Jack
-slug: vpw-salvo-final-roster-changes
+slug: final-roster-changes
 description:
 category: salvo
 category-title: Virtual Pro Wrestling Salvo

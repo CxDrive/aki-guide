@@ -3,7 +3,7 @@ layout: post
 author: RagDas
 date: 2024-01-01
 title: Roster Reveal + Vader vs Stone Cold
-slug: vpw-salvo-roster-reveal
+slug: roster-reveal
 description:
 category: salvo
 category-title: Virtual Pro Wrestling Salvo
