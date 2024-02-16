@@ -12,7 +12,7 @@ source: Virtual Pro-Wrestling 2 freem Edition Discord
 source-url:
 assetid: 899107ef
 ogp:
-published: true
+published: false
 ---
 
 ### Lesson 1
