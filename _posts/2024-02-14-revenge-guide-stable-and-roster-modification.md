@@ -25,16 +25,22 @@ I'm going to assume everyone has done the part where they have a separate ROM
 that they're using as the base ROM for their Revenge project file
 
 in your scratch ROM, please make sure your equivalent part of the ROM looks like mine
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_01){:.centered-img}
+
 at 667DC, type in 2404FFFF, and at 667F0, also type in 2404FFFF
 this will unlock all characters from the get-go
 and will make the rest of this easier, e.g. when costume hacking
 here's where we'll get started
 Attachment file type: spreadsheet
+
 [WCW-nWo_Revenge_-_Roster_Editing_Exercise.xlsx](../../assets/files/{{ page.assetid }}/{{ page.assetid }}_WCW-nWo_Revenge_-_Roster_Editing_Exercise.xlsx)
+
 13.52 KB
 Attachment file type: spreadsheet
+
 [WCW-nWo_Revenge_-_Wrestler_Overview_Data.xlsx](../../assets/files/{{ page.assetid }}/{{ page.assetid }}_WCW-nWo_Revenge_-_Wrestler_Overview_Data.xlsx)
+
 120.47 KB
 there are two sheets here:
 1) Roster Editing Exercise
@@ -43,7 +49,9 @@ The overview data is where I'd start, but I can understand that some of you migh
 so I'll quickly touch on an exercise
 regarding making changes to stables
 let's take a look at this
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_02){:.centered-img}
+
 this part of it tells you what the address of the first wrestler in that stable is
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_03){:.centered-img}
 given that this is the first stable in the game, my advice is to not change this
