@@ -38,7 +38,7 @@ published: true
 > 4) Given that the original roster was established pre-Wolfpac, I did some very minor default costume definition modifications in-ROM so that Macho Man, Scott Norton, Sting, Luger, and Kanyon/Mortis are as they would have been at the time of the roster's establishment. These are just the costumes they already have, so nothing is custom about the costumes themselves. It is possible that my adjusting this is why the two nameless men are in Crow Sting attire rather than Wolfpac attire as they're supposed to be, but that really shouldn't be the case. Also a point of note -- Kanyon really was Kanyon, probably, by the time February 1998 rolled around, but internally, he's treated as part of a stable of four, two of which are Wrath and Glacier. Additionally, his face texture is a redrawn version of Goldberg's, furthering the notion that he probably started out as Mortis.
 >
 > To understand how we got to this roster, this document is a good reference, though it might be tough to understand if you've never tried your hand at ROM hacking):
-
+>
 > [https://vpw.ajworld.net/revenge/defaultcos.txt](https://vpw.ajworld.net/revenge/defaultcos.txt)
 >
 > -- <cite>[@RagDas01](https://www.youtube.com/@RagDas01)</cite>
