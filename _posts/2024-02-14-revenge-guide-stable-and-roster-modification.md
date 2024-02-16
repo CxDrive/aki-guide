@@ -34,12 +34,12 @@ and will make the rest of this easier, e.g. when costume hacking
 here's where we'll get started
 Attachment file type: spreadsheet
 
-[WCW-nWo_Revenge_-_Roster_Editing_Exercise.xlsx](../../assets/files/899107ef/899107ef_WCW-nWo_Revenge_-_Roster_Editing_Exercise.xlsx)
+[WCW-nWo Revenge - Roster Editing Exercise.xlsx](../../assets/files/{{ page.assetid }}/{{ page.assetid }}_WCW-nWo_Revenge_-_Roster_Editing_Exercise.xlsx)
 
 13.52 KB
 Attachment file type: spreadsheet
 
-[WCW-nWo_Revenge_-_Wrestler_Overview_Data.xlsx](../../assets/files/899107ef/899107ef_WCW-nWo_Revenge_-_Wrestler_Overview_Data.xlsx)
+[WCW-nWo Revenge - Wrestler Overview Data.xlsx](../../assets/files/{{ page.assetid }}/{{ page.assetid }}_WCW-nWo_Revenge_-_Wrestler_Overview_Data.xlsx)
 
 120.47 KB
 there are two sheets here:
