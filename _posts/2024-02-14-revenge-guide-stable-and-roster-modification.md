@@ -15,6 +15,14 @@ ogp:
 published: true
 ---
 
+### Table of Contents
+
+[Lesson 1 - Stable Sizes](#Lesson 1 - Stable Sizes)
+[Lesson 2 - Basic Roster Order Modification Order](#Lesson 2 - Basic Roster Order Modification Order)
+[Lesson 3 - Intermediate Roster Order Modification](#Lesson 3 - Intermediate Roster Order Modification)
+[Lesson 4 - Advanced Roster Order Modification](#Lesson 4 - Advanced Roster Order Modification)
+
+
 ### Lesson 1 - Stable Sizes
 
 I'm gonna share some spreadsheets similar to the ones I built for myself in making Salvo
@@ -29,21 +37,13 @@ in your scratch ROM, please make sure your equivalent part of the ROM looks like
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_01.webp){:.centered-img}
 
-at
+at 667DC
 
-    667DC
+type in 2404FFFF
 
-type in
+and at 667F0
 
-    2404FFFF
-
-and at
-
-    667F0
-
-also type in
-
-    2404FFFF
+also type in 2404FFFF
 
 this will unlock all characters from the get-go and will make the rest of this easier, e.g. when costume hacking
 
@@ -82,13 +82,7 @@ you subtract 4 (in hex) from whatever the current address is
 
 if you wish for it to start with the wrestler after the one it's starting with now you add 4 (in hex) to the current address
 
-so, if I wanted the stable to start with the Giant, and effectively dummy out Hogan in the process, I would change
-
-    8003A1EC
-
-to
-
-    8003A1F0
+so, if I wanted the stable to start with the Giant, and effectively dummy out Hogan in the process, I would change 8003A1EC to 8003A1F0
 
 anyway
 
@@ -104,13 +98,7 @@ in the future, someone may be able to make VPW64 style wrestler select screens t
 
 but for your sake, please keep the limit in mind
 
-If you want to dummy out Curt Hennig, all you'd have to do is change this value from
-
-    0009
-
-to
-
-    0008
+If you want to dummy out Curt Hennig, all you'd have to do is change this value from 0009 to 0008
 
 now where it can get interesting is, "what if I want to move Curt Hennig to the Wolfpac?"
 
@@ -298,11 +286,7 @@ we only want 5 people in the first stable (nWo White), so we change that to 0005
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_34.webp){:.centered-img}
 
-Now, search for
-
-    8003A1EC
-
-in HxD again
+Now, search for 8003A1EC in HxD again
 
 these should be the only changes you make in your ROM at this stage
 
@@ -322,11 +306,7 @@ now this comes into play
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_38.webp){:.centered-img}
 
-you'll notice
-
-    8003A20C
-
-gets you to Scott Hall
+you'll notice 8003A20C gets you to Scott Hall
 
 Hogan is 3 slots behind
 
