@@ -176,8 +176,6 @@ out of habit, I tend to press "Search All", because it tells you the offset at t
 this is what you should end up with
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_18.webp){:.centered-img}
 
-That's the first part of the lesson done; directly reply to this message if anything in this portion of the lesson is confusing you
-
 If you were successfully able to do that, I will now teach you something a bit more advanced
 
 you don't have to follow this exercise to the letter, this is meant to teach you part of my workflow
