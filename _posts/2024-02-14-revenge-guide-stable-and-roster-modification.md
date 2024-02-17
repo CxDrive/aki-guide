@@ -2,7 +2,7 @@
 layout: post
 author: ragdas
 date: 2024-02-14
-title: Module 1 - Stable & Roster Modification
+title: ragdas' Revenge Guide - Module 1 - Stable & Roster Modification
 slug: stable-and-roster-modification
 description:
 category: revenge
