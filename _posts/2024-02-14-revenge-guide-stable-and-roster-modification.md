@@ -159,26 +159,16 @@ I will assume you're using HxD for this
 1. Take Hogan's value (80 03 93 90) and copy it
 2. Go to HxD and press Ctrl+F to open up the "Find" dialog box
 3. Paste Hogan's Wrestler Address that you just copied into the "Hex values" tab
-
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_13.webp){:.centered-img}
-
 out of habit, I tend to press "Search All", because it tells you the offset at the bottom
-
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_14.webp){:.centered-img}
-
 4. You can see that the blue portion of this screenshot is Hogan's wrestler address; the portion I highlighted in yellow is Woman's (80 03 A1 2C), which is at the bottom of your spreadsheet
-
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_15.webp){:.centered-img}
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_16.webp){:.centered-img}
-
 5. All we're going to do now is switch the Giant with Hogan; to do this, take Giant's Wrestler Address (80 03 8E BC) and paste it over Hogan's Wrestler Address, and then likewise take Hogan's Wrestler Address (80 03 93 90) and paste it over Giant's
-
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_17.webp){:.centered-img}
-
 6. Save your changes in HxD and then rebuild your rom in VPW Studio (Ctrl+Shift+B)
-
 this is what you should end up with
-
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_18.webp){:.centered-img}
 
 That's the first part of the lesson done; directly reply to this message if anything in this portion of the lesson is confusing you
