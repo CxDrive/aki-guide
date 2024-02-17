@@ -17,13 +17,17 @@ published: true
 
 ### Table of Contents
 
-[Lesson 1 - Stable Sizes](#Lesson 1 - Stable Sizes)
-[Lesson 2 - Basic Roster Order Modification Order](#Lesson 2 - Basic Roster Order Modification Order)
-[Lesson 3 - Intermediate Roster Order Modification](#Lesson 3 - Intermediate Roster Order Modification)
-[Lesson 4 - Advanced Roster Order Modification](#Lesson 4 - Advanced Roster Order Modification)
+[Lesson 1 - Stable Sizes](#Lesson1)
+
+[Lesson 2 - Basic Roster Order Modification Order](#Lesson2)
+
+[Lesson 3 - Intermediate Roster Order Modification](#Lesson3)
+
+[Lesson 4 - Advanced Roster Order Modification](#Lesson4)
 
 
-### Lesson 1 - Stable Sizes
+
+### <a name="Lesson1"></a> Lesson 1 - Stable Sizes
 
 I'm gonna share some spreadsheets similar to the ones I built for myself in making Salvo
 
@@ -134,7 +138,8 @@ et voila
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_10.webp){:.centered-img}
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_11.webp){:.centered-img}
 
-### Lesson 2 - Basic Roster Order Modification Order
+
+### <a name="Lesson2"></a> Lesson 2 - Basic Roster Order Modification Order
 
 Aite people
 
@@ -185,7 +190,8 @@ I tend to use the Excel to keep track of these kinds of changes
 
 but once you get comfortable enough, you should be be fine just searching the nWo White address (8003A1EC) and making direct changes to that section
 
-### Lesson 3 - Intermediate Roster Order Modification
+
+### <a name="Lesson3"></a> Lesson 3 - Intermediate Roster Order Modification
 
 anyway
 
@@ -320,7 +326,7 @@ I think that's enough for today
 
 Once you're able to do these kinds of roster adjustments, you have the foundation to do more interesting things, so I hope you take the time to get the hang of this before we proceed to the next part
 
-### Lesson 4 - Advanced Roster Order Modification
+### <a name="Lesson4"></a> Lesson 4 - Advanced Roster Order Modification
 
 Alright, here's the last lesson for this module
 
