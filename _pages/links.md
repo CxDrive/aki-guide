@@ -6,6 +6,8 @@ title: Links
 
 ### Community Releases
 
+- [Virtual Pro Wrestling Salvo)](https://vpw.ajworld.net/salvo/)
+  - A release based on WCW/nWo Revenge created by RagDas.
 - [WCW Saturday Night](https://www.youtube.com/watch?v=K8s6xypj588)
   - A release based on Wrestlemania 2000 created by G.M. Spectre.
 - [La Fin Du Tour - Virtual Pro Wrestling Alpha](https://vpw.ajworld.net/lfdt/)
@@ -37,6 +39,14 @@ title: Links
 
 - [G.M.Spectre's Ko-fi](https://ko-fi.com/gmspectre)
 - [Melonbread's Ko-fi](https://ko-fi.com/melonbread1979)
+
+
+### Patches Available on romhacking.net
+
+- [WCW/nWo 레벤지 (REVENJI)](https://www.romhacking.net/hacks/8449/)
+- [SUMMIT: Virtual Pro Wrestling Gamma](https://www.romhacking.net/hacks/8455/)
+- [La Fin Du Tour - Virtual Pro Wrestling Alpha](https://www.romhacking.net/hacks/8456/)
+- [Virtual Pro Wrestling Salvo)](https://www.romhacking.net/hacks/8457/)
 
 
 ### Patreons
