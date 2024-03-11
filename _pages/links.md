@@ -6,7 +6,7 @@ title: Links
 
 ### Community Releases
 
-- [Virtual Pro Wrestling Salvo)](https://vpw.ajworld.net/salvo/)
+- [Virtual Pro Wrestling Salvo](https://vpw.ajworld.net/salvo/)
   - A release based on WCW/nWo Revenge created by RagDas.
 - [WCW Saturday Night](https://www.youtube.com/watch?v=K8s6xypj588)
   - A release based on Wrestlemania 2000 created by G.M. Spectre.
