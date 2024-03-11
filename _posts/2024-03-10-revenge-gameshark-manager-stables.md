@@ -1,7 +1,7 @@
 ---
 layout: post
 author: S.K. Stylez
-date: 2023-12-23
+date: 2024-03-10
 title: Gameshark Code - Add Manager Stables to Wrestler Select
 slug: gameshark-manager-stables
 description:
