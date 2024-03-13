@@ -32,6 +32,13 @@ Not fully tested, but if there are issues, let me know.
 
 ## Note from RagDas
 
-> For the general public: the managers are still managers, and will be on the outside as a result. Modifying their params to switch them to kickboxers (a la the regular playable version of Bischoff) will allow them to function more normally.
+> Just going to post a comment here as a point of reference because maybe it's not as common knowledge as some of us would have liked:
 >
-> -- <cite>[RagDas](https://twitter.com/RagDas01/status/1766842966482497749)</cite>
+> 1. The existence of the removed managers has been known for years (see literally any Gameshark codes on old websites); that's not the big highlight here. The stables being activated is the main thing.
+> 2. Yes, some of these characters have the wrong names, because they weren't finished. Jackreen, for example, is Jacqueline Moore, whose existence wouldn't make sense in the same game as Sister Sherri because both were managers for Harlem Heat. In the end, they were repurposed for use in the Revenge intro.
+> 3. I have zero clue what people mean by "cosmetic", but I'll elaborate to be clear: the managers have character slots just like any other character in the game. And like any other character, they have their own stable(s): one for men, and one for women. These stables are hidden for obvious reasons, and this code allows you to access them. Like real characters, they all have their own specific movesets, but obviously for incomplete characters, they're not done and tend to devolve into the 'invalid chop' (see: Sherri, Jackreen, Ted DiBiase, etc.)
+> 4. Related to #3, Managers have their own specific fighting style. It is this fighting style that relegates them to being managers in the first place, being unable to win or lose matches and unable to enter the ring. Via ROM hacking, one can change their fighting style to be that of a kickboxer, which the playable Eric Bischoff uses, and that would make them play similar to how Bischoff plays. People like Dusty Rhodes can be modified in this fashion for regular use.
+>
+> What SK has done is pretty damn cool all things considered, and while it's been a theoretical thing for all these years, it takes a person like SK to make something like this come to life. It's a masterclass in ASM work.
+>
+> -- <cite>[RagDas](https://old.reddit.com/r/N64WrestlingGames/comments/1bbe04a/aki_club_on_x_a_code_for_wcwnwo_revenge_this_adds/ku8xnx7/)</cite>
