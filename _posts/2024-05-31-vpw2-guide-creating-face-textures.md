@@ -5,9 +5,9 @@ date: 2024-05-31
 title: Guide - Creating Face Textures
 slug: guide-creating-face-textures
 description:
-category: vpw2
-category-title: Virtual Pro Wrestling 2
-tags: ["vpw2","wm2k","guide"]
+category: wm2k
+category-title: WWF Wrestlemania 2000
+tags: ["wm2k","vpw2","guide"]
 source: Virtual Pro-Wrestling 2 freem Edition Discord
 source-url: 
 assetid: 32d63e12
@@ -27,7 +27,7 @@ In WM2k, Kane's face is totally obscured except for mouth and glimpses of eyes, 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_01.webp){:.centered-img}
 
 
-TOOLS:
+### TOOLS:
 
 1. For this specific version of the tutorial, one of the things you'll absolutely want to use is the Steam/PC version of any WWE 2k game from 2k15 forward, as this is what I'm using. I'll explain once I get to that point.
 
@@ -37,7 +37,7 @@ TOOLS:
 
 4. VPW Studio, of course.
 
-THE PROCESS:
+### THE PROCESS:
 
 Make a dedicated project folder for everything to be handily organized into.
 
@@ -66,7 +66,9 @@ This will be the main face you work with. At any point, you can choose to Sharpe
 5. Copy your screenshot of Kane into your project folder so you can find it later when you need it (and also because IrfanView can be trigger-happy sometimes). Now, open it in IrfanView, crop Kane's head, and copy-paste that into a clean Paint Shop Pro document.
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_03.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_04.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_05.webp){:.centered-img}
 
 
@@ -80,7 +82,9 @@ This will be the main face you work with. At any point, you can choose to Sharpe
 8. In Paint Shop Pro, right now there should be 2 documents open: your Kane export from VPW Studio sized at 32x64, and your Kane 2k reference. On your Kane 2k, select his eyes, nose, and mouth, and copy that to a new layer. On the Kane 32x64, paste it onto a new layer there as well. Duplicate that new layer (duplicating will always be helpful in case you need a previous iteration).
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_06.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_07.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_08.webp){:.centered-img}
 
 
@@ -93,12 +97,14 @@ One thing to note now is that during your progress, you'll be checking opacity a
 11. In this screenshot, you'll notice that HHH's features are slightly higher than Kane's, and that's okay, we only really need his forehead. In a duplicate layer, use an eraser with Size and Hardness set low and then gently erase the eyes and nose, but try to leave the cheeks and mouth/jaw areas as intact as possible. Your screenshot should sort of look like this.
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_09.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_10.webp){:.centered-img}
 
 
 12. Additionally, on a duplicate of the base Kane 32x64 layer, Magic Wand select the black piece and delete, then select the dark brown piece below on top of the mouth and delete that as well. Leave the nose and eye pieces for now as reference.
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_11.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_12.webp){:.centered-img}
 
 
@@ -110,7 +116,9 @@ One thing to note now is that during your progress, you'll be checking opacity a
 14. At this point, it's mainly a matter of finding out what pieces look most like Kane (with Boss Man's nose and mouth basically good enough, we just need eyes to match Kane's now).
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_14.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_15.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_16.webp){:.centered-img}
 
 
@@ -125,6 +133,7 @@ We're now going to see if it works.
 18. In the instance of VPW Studio wih WM2k open, highlight 1164, Kane's face, and hit Ctrl-I. Click Browse next to the Replacement File Path and select your new Kane face. Press OK. Now save your project, hit Ctrl-Shift-B to build your modded WM2k file, and when it finishes, hit F5 open up your emulator to test out your face.
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_17.webp){:.centered-img}
+
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_18.webp){:.centered-img}
 
 
