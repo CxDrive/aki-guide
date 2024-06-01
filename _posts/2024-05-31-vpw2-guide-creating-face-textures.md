@@ -24,8 +24,7 @@ For this, I'm going to make an example face, Kane.
 
 In WM2k, Kane's face is totally obscured except for mouth and glimpses of eyes, so those are going to be my reference points for this tutorial Kane face (which will be different from my previously made one).
 
-
-![Screenshot](../../assets/img/{{ page.assetid }}_01.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_01.webp){:.centered-img}
 
 
 TOOLS:
@@ -55,7 +54,7 @@ This is your base reference.
 
 3. Either drag your new 1164.png into Paint Shop Pro, or open it in IrfanView, select all, and copy-paste into a clean new PSP document.
 
-![Screenshot](../../assets/img/{{ page.assetid }}_02.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_02.webp){:.centered-img}
 
 4. Open up Steam, and then open up your preferred WWE 2k game; for this I'm using WWE 2k17. This assumes you have some experience in the WWE 2k CAW mode, so keep that in mind. For this tutorial, I had the resolution set to 1920x1080, so keep that in mind as well.
 
@@ -66,23 +65,23 @@ This will be the main face you work with. At any point, you can choose to Sharpe
 
 5. Copy your screenshot of Kane into your project folder so you can find it later when you need it (and also because IrfanView can be trigger-happy sometimes). Now, open it in IrfanView, crop Kane's head, and copy-paste that into a clean Paint Shop Pro document.
 
-![Screenshot](../../assets/img/{{ page.assetid }}_03.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_04.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_05.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_03.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_04.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_05.webp){:.centered-img}
 
 
 6. Still in IrfanView, hit Ctrl-R and resize the crop by hitting Half. Now copy that and paste it into a new layer on the full-sized Kane document by hitting Ctrl-L instead of Ctrl-V.
 
-![Screenshot](../../assets/img/{{ page.assetid }}_20.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_20.webp){:.centered-img}
 
 
 7. Go back to IrfanView and shrink it again to half size. Copy that and paste it like in step 6. This will be the MAIN version of the face you work with. Luckily, we won't need to go back to IrfanView for a while.
 
 8. In Paint Shop Pro, right now there should be 2 documents open: your Kane export from VPW Studio sized at 32x64, and your Kane 2k reference. On your Kane 2k, select his eyes, nose, and mouth, and copy that to a new layer. On the Kane 32x64, paste it onto a new layer there as well. Duplicate that new layer (duplicating will always be helpful in case you need a previous iteration).
 
-![Screenshot](../../assets/img/{{ page.assetid }}_06.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_07.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_08.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_06.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_07.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_08.webp){:.centered-img}
 
 
 9. Resize the new layer (Image: Resize, or Shift-S) down to 30 pixels width, playing with height to fit. Make sure "Resize all layers" is UN-checked.
@@ -93,26 +92,26 @@ One thing to note now is that during your progress, you'll be checking opacity a
 
 11. In this screenshot, you'll notice that HHH's features are slightly higher than Kane's, and that's okay, we only really need his forehead. In a duplicate layer, use an eraser with Size and Hardness set low and then gently erase the eyes and nose, but try to leave the cheeks and mouth/jaw areas as intact as possible. Your screenshot should sort of look like this.
 
-![Screenshot](../../assets/img/{{ page.assetid }}_09.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_10.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_09.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_10.webp){:.centered-img}
 
 
 12. Additionally, on a duplicate of the base Kane 32x64 layer, Magic Wand select the black piece and delete, then select the dark brown piece below on top of the mouth and delete that as well. Leave the nose and eye pieces for now as reference.
 
-![Screenshot](../../assets/img/{{ page.assetid }}_11.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_12.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_11.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_12.webp){:.centered-img}
 
 
 13. Kane has a bit of a snubby nose, so we'll need to find somebody with a snubby nose. Sticking with WM2k, we're going to export File 1159, Face Texture 10 (Big Boss Man) and bring that into our Kane 32x64. It looks suitable for both nose and mouth so move it vertically slightly so the mouth overlaps with the black line of Kane's.
 
-![Screenshot](../../assets/img/{{ page.assetid }}_13.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_13.webp){:.centered-img}
 
 
 14. At this point, it's mainly a matter of finding out what pieces look most like Kane (with Boss Man's nose and mouth basically good enough, we just need eyes to match Kane's now).
 
-![Screenshot](../../assets/img/{{ page.assetid }}_14.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_15.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_16.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_14.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_15.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_16.webp){:.centered-img}
 
 
 15. In a 2nd instance of VPW Studio (hold Shift, then click on the VPWS icon on your Taskbar), open a project that uses Virtual Pro Wrestling 2 as the game base. Hit Ctrl-F and type "face co" to go to Face Color. Double-click File 1745, Face Color 0, then click Export Palette. Select JASC Paint Shop Pro Palette in the Type drop-down, and export to your project folder. "1745.pal" will now be your permanent color-matcher moving forward.
@@ -125,12 +124,12 @@ We're now going to see if it works.
 
 18. In the instance of VPW Studio wih WM2k open, highlight 1164, Kane's face, and hit Ctrl-I. Click Browse next to the Replacement File Path and select your new Kane face. Press OK. Now save your project, hit Ctrl-Shift-B to build your modded WM2k file, and when it finishes, hit F5 open up your emulator to test out your face.
 
-![Screenshot](../../assets/img/{{ page.assetid }}_17.webp){:.centered-img}
-![Screenshot](../../assets/img/{{ page.assetid }}_18.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_17.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_18.webp){:.centered-img}
 
 
 Success! Kind of.
 As you can see here, the nose and mouth are a skoche too high and the eyes are a tiny bit too low to exactly match Glenn Jacobs as Kane/Isaac Yankem DDS/Fake Diesel, but we now have a usable face!
 I'm gonna go back and make those tweaks, but hopefully I've helped the rest of you do your own! 😄
 
-![Screenshot](../../assets/img/{{ page.assetid }}_19.webp){:.centered-img}
+![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_19.webp){:.centered-img}
