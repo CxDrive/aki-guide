@@ -2,7 +2,7 @@
 layout: post
 author: Adz_FullMETAL
 date: 2024-05-31
-title: Guide - Creating Face Textures
+title: Adz_FullMETAL's WM2K Guide - Creating Face Textures
 slug: guide-creating-face-textures
 description:
 category: wm2k
@@ -27,7 +27,7 @@ In WM2k, Kane's face is totally obscured except for mouth and glimpses of eyes, 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_01.webp){:.centered-img}
 
 
-### TOOLS:
+### Tools:
 
 1. For this specific version of the tutorial, one of the things you'll absolutely want to use is the Steam/PC version of any WWE 2k game from 2k15 forward, as this is what I'm using. I'll explain once I get to that point.
 
@@ -37,7 +37,7 @@ In WM2k, Kane's face is totally obscured except for mouth and glimpses of eyes, 
 
 4. VPW Studio, of course.
 
-### THE PROCESS:
+### The Process:
 
 Make a dedicated project folder for everything to be handily organized into.
 
