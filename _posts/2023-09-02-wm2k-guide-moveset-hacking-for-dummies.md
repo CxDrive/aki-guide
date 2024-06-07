@@ -19,13 +19,13 @@ published: true
 
 ##### Step 1
 
-Download Project 64 4.0 (yes, you can click here to do that).
+Download Project 64 4.0.
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_01.png){:.centered-img}
 
 ##### Step 2
 
-Create a CAW with the moveset, parameters and even the AI you want (use the Edit AI code).
+Create a CAW with the moveset, parameters and even the AI you want [(use the Edit AI code)](https://aki.guide/wm2k/gameshark-ai-menu/).
 
 ![Screenshot](../../assets/img/{{ page.assetid }}/{{ page.assetid }}_02.jpg){:.centered-img}
 
